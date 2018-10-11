@@ -121,9 +121,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 615175944}
+  - component: {fileID: 615175946}
+  - component: {fileID: 615175945}
   - component: {fileID: 615175943}
   m_Layer: 0
-  m_Name: Entity Manager Object
+  m_Name: Entity Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -137,12 +139,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 615175942}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b65e82a8e41d26498310828242435bb, type: 3}
+  m_Script: {fileID: 11500000, guid: 6b1fe1f3161cc68429f59eff8ef1cfe6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: entityManager
+      Entry: 6
+      Data: 
+  speed: 5
   mesh: {fileID: 4300000, guid: 1c37d7f6025bd8646a3c27842d85ff74, type: 3}
-  material: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  material: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
 --- !u!4 &615175944
 Transform:
   m_ObjectHideFlags: 0
@@ -156,6 +170,41 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &615175945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 615175942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e613afc38899234ca4718158ac24420, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  horizontalMovement: Horizontal
+  verticalMovement: Vertical
+  leftMouse: 323
+  rightMouse: 324
+--- !u!114 &615175946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 615175942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131d6c4342a649d4299325eb1db1f421, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1429807637
 GameObject:
   m_ObjectHideFlags: 0

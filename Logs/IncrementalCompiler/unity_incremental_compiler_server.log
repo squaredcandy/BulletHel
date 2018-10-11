@@ -1,852 +1,392 @@
  (0,0): Unity incremental compiler server
- (0,0): watchdog active on pid: 12108
- (0,0): [10/02/2018 04:00:13.767 PM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:13.781 PM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:13.788 PM] Unity.TextMeshPro.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:13.799 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/02/2018 04:00:14.000 PM] Unity.Mathematics.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:14.003 PM] Unity.Properties.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:14.011 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/02/2018 04:00:14.015 PM] Unity.Properties.dll compiling...
- (0,0): [10/02/2018 04:00:16.842 PM] Unity.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.dll
- (0,0): [10/02/2018 04:00:16.843 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/02/2018 04:00:16.842 PM] Unity.TextMeshPro.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.dll
- (0,0): [10/02/2018 04:00:16.931 PM] Unity.Properties.dll compilation finished in 2916ms  source files re-parsed: 34 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:16.955 PM] Unity.Postprocessing.Runtime.dll compilation finished in 3174ms  source files re-parsed: 56 metadata reloaded: 201
- (0,0): [10/02/2018 04:00:16.967 PM] Unity.TextMeshPro.dll compilation finished in 3168ms  source files re-parsed: 45 metadata reloaded: 186
- (0,0): [10/02/2018 04:00:17.247 PM] Unity.2D.IK.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:17.259 PM] Unity.2D.IK.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:17.354 PM] Unity.2D.IK.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Runtime.dll
- (0,0): [10/02/2018 04:00:17.360 PM] Unity.Burst.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:17.375 PM] Unity.Mathematics.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.dll
- (0,0): [10/02/2018 04:00:17.381 PM] Unity.Burst.dll compiling...
- (0,0): [10/02/2018 04:00:17.416 PM] Unity.2D.IK.Runtime.dll compilation finished in 157ms  source files re-parsed: 13 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:17.453 PM] Unity.Mathematics.dll compilation finished in 3441ms  source files re-parsed: 81 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:17.458 PM] Unity.2D.PixelPerfect.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:17.470 PM] Unity.Burst.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.dll
- (0,0): [10/02/2018 04:00:17.471 PM] Unity.2D.PixelPerfect.dll compiling...
- (0,0): [10/02/2018 04:00:17.499 PM] Unity.Burst.dll compilation finished in 119ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:17.501 PM] Unity.2D.PixelPerfect.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.dll
- (0,0): [10/02/2018 04:00:17.538 PM] Unity.2D.PixelPerfect.dll compilation finished in 68ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:17.665 PM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:17.677 PM] Unity.InternalAPIEngineBridge.001.dll compiling...
- (0,0): [10/02/2018 04:00:17.707 PM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
- (0,0): [10/02/2018 04:00:17.735 PM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 58ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:17.769 PM] Unity.Collections.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:17.781 PM] Unity.Collections.dll compiling...
- (0,0): [10/02/2018 04:00:17.874 PM] Unity.Collections.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Collections.dll
- (0,0): [10/02/2018 04:00:17.877 PM] Unity.ProGrids.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:17.900 PM] Unity.ProGrids.dll compiling...
- (0,0): [10/02/2018 04:00:17.919 PM] Unity.ProGrids.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.dll
- (0,0): [10/02/2018 04:00:17.921 PM] Unity.Collections.dll compilation finished in 140ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:17.946 PM] Unity.ProGrids.dll compilation finished in 46ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:17.986 PM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:17.997 PM] Unity.2D.Common.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:18.016 PM] Unity.2D.Common.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Runtime.dll
- (0,0): [10/02/2018 04:00:18.043 PM] Unity.2D.Common.Runtime.dll compilation finished in 46ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:18.098 PM] Unity.ShaderGraph.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:18.109 PM] Unity.ShaderGraph.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:18.201 PM] Unity.Entities.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:18.217 PM] Unity.Entities.dll compiling...
- (0,0): [10/02/2018 04:00:18.309 PM] Unity.Jobs.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:18.336 PM] Unity.Jobs.dll compiling...
- (0,0): [10/02/2018 04:00:18.432 PM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:18.531 PM] Unity.Jobs.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.dll
- (0,0): [10/02/2018 04:00:18.532 PM] Unity.2D.SpriteShape.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:18.559 PM] Unity.Jobs.dll compilation finished in 222ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:18.775 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:18.778 PM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
- (0,0): [10/02/2018 04:00:18.786 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:18.882 PM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 350ms  source files re-parsed: 6 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:19.052 PM] Unity.Entities.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.dll
- (0,0): [10/02/2018 04:00:19.082 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/02/2018 04:00:19.145 PM] Unity.ProGrids.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:19.155 PM] Unity.Entities.dll compilation finished in 938ms  source files re-parsed: 57 metadata reloaded: 2
- (0,0): [10/02/2018 04:00:19.163 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 377ms  source files re-parsed: 44 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:19.157 PM] Unity.ProGrids.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:19.398 PM] Unity.Properties.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:19.410 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:19.411 PM] Unity.ProGrids.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.Editor.dll
- (0,0): [10/02/2018 04:00:19.493 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:19.505 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:00:19.553 PM] Unity.ShaderGraph.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
- (0,0): [10/02/2018 04:00:19.554 PM] Unity.ProGrids.Editor.dll compilation finished in 396ms  source files re-parsed: 20 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:19.582 PM] Unity.Properties.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Editor.dll
- (0,0): [10/02/2018 04:00:19.597 PM] Unity.Entities.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/02/2018 04:00:19.665 PM] Unity.Entities.Hybrid.dll compilation finished in 160ms  source files re-parsed: 12 metadata reloaded: 2
- (0,0): [10/02/2018 04:00:19.668 PM] Unity.ShaderGraph.Editor.dll compilation finished in 1558ms  source files re-parsed: 378 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:19.666 PM] Unity.Properties.Editor.dll compilation finished in 255ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:19.803 PM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:19.814 PM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:19.921 PM] Unity.Transforms.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:19.940 PM] Unity.Transforms.dll compiling...
- (0,0): [10/02/2018 04:00:19.947 PM] Unity.Postprocessing.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/02/2018 04:00:20.013 PM] Unity.Transforms.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.dll
- (0,0): [10/02/2018 04:00:20.013 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.036 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:20.080 PM] Unity.Postprocessing.Editor.dll compilation finished in 267ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:20.093 PM] Unity.Transforms.dll compilation finished in 154ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:20.113 PM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.125 PM] Unity.2D.Common.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:20.326 PM] Unity.Burst.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.327 PM] Unity.2D.Common.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Editor.dll
- (0,0): [10/02/2018 04:00:20.339 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:20.348 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/02/2018 04:00:20.391 PM] Unity.2D.Common.Editor.dll compilation finished in 265ms  source files re-parsed: 5 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:20.418 PM] Unity.Burst.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.Editor.dll
- (0,0): [10/02/2018 04:00:20.420 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.433 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:00:20.499 PM] Unity.Burst.Editor.dll compilation finished in 160ms  source files re-parsed: 10 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:20.516 PM] Unity.TextMeshPro.Editor.dll compilation finished in 481ms  source files re-parsed: 39 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:20.521 PM] Unity.Rendering.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/02/2018 04:00:20.523 PM] Unity.Entities.Properties.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.536 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/02/2018 04:00:20.586 PM] Unity.Rendering.Hybrid.dll compilation finished in 153ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:20.596 PM] Unity.Entities.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Properties.dll
- (0,0): [10/02/2018 04:00:20.620 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.632 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:00:20.662 PM] Unity.Entities.Properties.dll compilation finished in 126ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:20.663 PM] Unity.Transforms.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/02/2018 04:00:20.693 PM] Unity.Transforms.Hybrid.dll compilation finished in 61ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:20.713 PM] Unity.2D.PixelPerfect.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.725 PM] Unity.2D.PixelPerfect.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:20.751 PM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
- (0,0): [10/02/2018 04:00:20.787 PM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 62ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:20.823 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:20.835 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/02/2018 04:00:20.875 PM] Unity.Properties.Codegen.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/02/2018 04:00:20.926 PM] Unity.Properties.Codegen.dll compilation finished in 91ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:20.989 PM] Unity.ProBuilder.AddOns.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:21.005 PM] Unity.ProBuilder.AddOns.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:21.038 PM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
- (0,0): [10/02/2018 04:00:21.065 PM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 59ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:21.087 PM] Unity.Entities.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:21.098 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:21.183 PM] Unity.Entities.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Editor.dll
- (0,0): [10/02/2018 04:00:21.190 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:21.202 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:21.233 PM] Unity.Jobs.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/02/2018 04:00:21.239 PM] Unity.Entities.Editor.dll compilation finished in 141ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:21.259 PM] Unity.Jobs.Editor.dll compilation finished in 57ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:21.289 PM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:21.300 PM] Unity.InternalAPIEditorBridge.001.dll compiling...
- (0,0): [10/02/2018 04:00:21.329 PM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
- (0,0): [10/02/2018 04:00:21.353 PM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 53ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:21.389 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:21.402 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:21.437 PM] Unity.Mathematics.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/02/2018 04:00:21.477 PM] Unity.Mathematics.Editor.dll compilation finished in 75ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:21.518 PM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:21.529 PM] Unity.2D.SpriteShape.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:21.624 PM] Unity.2D.IK.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:21.628 PM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
- (0,0): [10/02/2018 04:00:21.636 PM] Unity.2D.IK.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:21.689 PM] Unity.2D.IK.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Editor.dll
- (0,0): [10/02/2018 04:00:21.715 PM] Unity.2D.SpriteShape.Editor.dll compilation finished in 186ms  source files re-parsed: 20 metadata reloaded: 3
- (0,0): [10/02/2018 04:00:21.733 PM] Unity.2D.IK.Editor.dll compilation finished in 97ms  source files re-parsed: 8 metadata reloaded: 2
- (0,0): [10/02/2018 04:00:28.582 PM] Assembly-CSharp-firstpass.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:28.593 PM] Assembly-CSharp-firstpass.dll compiling...
- (0,0): [10/02/2018 04:00:28.620 PM] Assembly-CSharp-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-firstpass.dll
- (0,0): [10/02/2018 04:00:28.646 PM] Assembly-CSharp-firstpass.dll compilation finished in 53ms  source files re-parsed: 1 metadata reloaded: 17
- (0,0): [10/02/2018 04:00:28.899 PM] Assembly-CSharp-Editor-firstpass.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:28.910 PM] Assembly-CSharp-Editor-firstpass.dll compiling...
- (0,0): [10/02/2018 04:00:28.963 PM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
- (0,0): [10/02/2018 04:00:29.010 PM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 100ms  source files re-parsed: 5 metadata reloaded: 4
- (0,0): [10/02/2018 04:00:31.677 PM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:31.689 PM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:31.832 PM] Unity.TextMeshPro.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:31.844 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/02/2018 04:00:31.883 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/02/2018 04:00:31.926 PM] Unity.Properties.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:31.939 PM] Unity.Properties.dll compiling...
- (0,0): [10/02/2018 04:00:32.067 PM] Unity.Mathematics.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:32.169 PM] Unity.Postprocessing.Runtime.dll compilation finished in 480ms  source files re-parsed: 56 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:32.177 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/02/2018 04:00:32.464 PM] Unity.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.dll
- (0,0): [10/02/2018 04:00:32.638 PM] Unity.2D.IK.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:32.729 PM] Unity.TextMeshPro.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.dll
- (0,0): [10/02/2018 04:00:32.732 PM] Unity.2D.IK.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:32.733 PM] Unity.Properties.dll compilation finished in 793ms  source files re-parsed: 34 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:32.850 PM] Unity.2D.IK.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Runtime.dll
- (0,0): [10/02/2018 04:00:33.051 PM] Unity.TextMeshPro.dll compilation finished in 1207ms  source files re-parsed: 45 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:33.062 PM] Unity.Burst.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:33.088 PM] Unity.Burst.dll compiling...
- (0,0): [10/02/2018 04:00:33.124 PM] Unity.2D.IK.Runtime.dll compilation finished in 392ms  source files re-parsed: 13 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:33.266 PM] Unity.Burst.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.dll
- (0,0): [10/02/2018 04:00:33.449 PM] Unity.Burst.dll compilation finished in 361ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:33.488 PM] Unity.2D.PixelPerfect.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:33.502 PM] Unity.2D.PixelPerfect.dll compiling...
- (0,0): [10/02/2018 04:00:33.534 PM] Unity.2D.PixelPerfect.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.dll
- (0,0): [10/02/2018 04:00:33.583 PM] Unity.2D.PixelPerfect.dll compilation finished in 81ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:33.584 PM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:33.596 PM] Unity.InternalAPIEngineBridge.001.dll compiling...
- (0,0): [10/02/2018 04:00:33.620 PM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
- (0,0): [10/02/2018 04:00:33.650 PM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 54ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:33.684 PM] Unity.ProGrids.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:33.697 PM] Unity.ProGrids.dll compiling...
- (0,0): [10/02/2018 04:00:33.717 PM] Unity.ProGrids.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.dll
- (0,0): [10/02/2018 04:00:33.746 PM] Unity.ProGrids.dll compilation finished in 49ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:33.786 PM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:33.798 PM] Unity.2D.Common.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:33.816 PM] Unity.2D.Common.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Runtime.dll
- (0,0): [10/02/2018 04:00:33.843 PM] Unity.2D.Common.Runtime.dll compilation finished in 45ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:33.965 PM] Unity.ShaderGraph.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:33.977 PM] Unity.ShaderGraph.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:34.077 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:34.163 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:34.202 PM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:34.214 PM] Unity.2D.SpriteShape.Runtime.dll compiling...
- (0,0): [10/02/2018 04:00:34.782 PM] Unity.Mathematics.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.dll
- (0,0): [10/02/2018 04:00:34.806 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/02/2018 04:00:34.833 PM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
- (0,0): [10/02/2018 04:00:34.876 PM] Unity.Mathematics.dll compilation finished in 2699ms  source files re-parsed: 81 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:34.886 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 723ms  source files re-parsed: 44 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:34.901 PM] Unity.ShaderGraph.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
- (0,0): [10/02/2018 04:00:34.911 PM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 698ms  source files re-parsed: 6 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:34.979 PM] Unity.ShaderGraph.Editor.dll compilation finished in 1002ms  source files re-parsed: 378 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:35.068 PM] Unity.Collections.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:35.080 PM] Unity.Collections.dll compiling...
- (0,0): [10/02/2018 04:00:35.201 PM] Unity.Collections.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Collections.dll
- (0,0): [10/02/2018 04:00:35.235 PM] Unity.ProGrids.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:35.247 PM] Unity.ProGrids.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:35.303 PM] Unity.Collections.dll compilation finished in 223ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:35.328 PM] Unity.ProGrids.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.Editor.dll
- (0,0): [10/02/2018 04:00:35.330 PM] Unity.Properties.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:35.342 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:35.458 PM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:35.460 PM] Unity.Properties.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Editor.dll
- (0,0): [10/02/2018 04:00:35.478 PM] Unity.ProGrids.Editor.dll compilation finished in 231ms  source files re-parsed: 20 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:35.471 PM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:35.603 PM] Unity.Properties.Editor.dll compilation finished in 261ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:35.604 PM] Unity.Entities.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:35.637 PM] Unity.Entities.dll compiling...
- (0,0): [10/02/2018 04:00:35.637 PM] Unity.Postprocessing.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/02/2018 04:00:35.706 PM] Unity.Jobs.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:35.762 PM] Unity.Jobs.dll compiling...
- (0,0): [10/02/2018 04:00:35.978 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:36.017 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:36.018 PM] Unity.Jobs.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.dll
- (0,0): [10/02/2018 04:00:36.020 PM] Unity.Postprocessing.Editor.dll compilation finished in 549ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:36.100 PM] Unity.Entities.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.dll
- (0,0): [10/02/2018 04:00:36.126 PM] Unity.Jobs.dll compilation finished in 363ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:36.316 PM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:36.335 PM] Unity.2D.Common.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:36.346 PM] Unity.Entities.dll compilation finished in 709ms  source files re-parsed: 57 metadata reloaded: 2
- (0,0): [10/02/2018 04:00:36.382 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/02/2018 04:00:36.409 PM] Unity.2D.Common.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Editor.dll
- (0,0): [10/02/2018 04:00:36.471 PM] Unity.Burst.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:36.497 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:36.548 PM] Unity.2D.Common.Editor.dll compilation finished in 212ms  source files re-parsed: 5 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:36.614 PM] Unity.Burst.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.Editor.dll
- (0,0): [10/02/2018 04:00:36.661 PM] Unity.TextMeshPro.Editor.dll compilation finished in 643ms  source files re-parsed: 39 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:36.681 PM] Unity.Burst.Editor.dll compilation finished in 183ms  source files re-parsed: 10 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:36.769 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:36.781 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:00:36.811 PM] Unity.Entities.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/02/2018 04:00:36.852 PM] Unity.Entities.Hybrid.dll compilation finished in 72ms  source files re-parsed: 12 metadata reloaded: 2
- (0,0): [10/02/2018 04:00:36.862 PM] Unity.2D.PixelPerfect.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:36.874 PM] Unity.2D.PixelPerfect.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:36.900 PM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
- (0,0): [10/02/2018 04:00:36.935 PM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 61ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:36.959 PM] Unity.ProBuilder.AddOns.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:36.971 PM] Unity.ProBuilder.AddOns.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:36.991 PM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
- (0,0): [10/02/2018 04:00:37.019 PM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 47ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:37.063 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.074 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/02/2018 04:00:37.118 PM] Unity.Properties.Codegen.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/02/2018 04:00:37.160 PM] Unity.Transforms.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.165 PM] Unity.Properties.Codegen.dll compilation finished in 91ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:37.172 PM] Unity.Transforms.dll compiling...
- (0,0): [10/02/2018 04:00:37.235 PM] Unity.Transforms.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.dll
- (0,0): [10/02/2018 04:00:37.263 PM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.275 PM] Unity.InternalAPIEditorBridge.001.dll compiling...
- (0,0): [10/02/2018 04:00:37.279 PM] Unity.Transforms.dll compilation finished in 107ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:37.303 PM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
- (0,0): [10/02/2018 04:00:37.329 PM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 54ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:37.362 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.373 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:37.394 PM] Unity.Jobs.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/02/2018 04:00:37.419 PM] Unity.Jobs.Editor.dll compilation finished in 46ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:37.463 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.475 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:37.507 PM] Unity.Mathematics.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/02/2018 04:00:37.543 PM] Unity.Mathematics.Editor.dll compilation finished in 68ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:37.564 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.585 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:00:37.626 PM] Unity.Rendering.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/02/2018 04:00:37.667 PM] Unity.Entities.Properties.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.671 PM] Unity.Rendering.Hybrid.dll compilation finished in 86ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:37.679 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/02/2018 04:00:37.724 PM] Unity.Entities.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Properties.dll
- (0,0): [10/02/2018 04:00:37.767 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.772 PM] Unity.Entities.Properties.dll compilation finished in 93ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:37.779 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:00:37.804 PM] Unity.Transforms.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/02/2018 04:00:37.831 PM] Unity.Transforms.Hybrid.dll compilation finished in 52ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [10/02/2018 04:00:37.892 PM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:37.904 PM] Unity.2D.SpriteShape.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:38.020 PM] Unity.2D.IK.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:38.027 PM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
- (0,0): [10/02/2018 04:00:38.032 PM] Unity.2D.IK.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:38.079 PM] Unity.2D.IK.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Editor.dll
- (0,0): [10/02/2018 04:00:38.104 PM] Unity.2D.SpriteShape.Editor.dll compilation finished in 200ms  source files re-parsed: 20 metadata reloaded: 3
- (0,0): [10/02/2018 04:00:38.105 PM] Unity.Entities.Editor.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:38.115 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/02/2018 04:00:38.125 PM] Unity.2D.IK.Editor.dll compilation finished in 94ms  source files re-parsed: 8 metadata reloaded: 2
- (0,0): [10/02/2018 04:00:38.184 PM] Unity.Entities.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Editor.dll
- (0,0): [10/02/2018 04:00:38.239 PM] Unity.Entities.Editor.dll compilation finished in 124ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/02/2018 04:00:38.631 PM] Assembly-CSharp-firstpass.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:38.643 PM] Assembly-CSharp-firstpass.dll compiling...
- (0,0): [10/02/2018 04:00:38.705 PM] Assembly-CSharp-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-firstpass.dll
- (0,0): [10/02/2018 04:00:38.744 PM] Assembly-CSharp-firstpass.dll compilation finished in 101ms  source files re-parsed: 1 metadata reloaded: 17
- (0,0): [10/02/2018 04:00:38.950 PM] Assembly-CSharp-Editor-firstpass.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:00:38.961 PM] Assembly-CSharp-Editor-firstpass.dll compiling...
- (0,0): [10/02/2018 04:00:38.996 PM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
- (0,0): [10/02/2018 04:00:39.038 PM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 76ms  source files re-parsed: 5 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:00.969 PM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:01.077 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/02/2018 04:01:01.115 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/02/2018 04:01:01.278 PM] Unity.Properties.dll compiling...
- (0,0): [10/02/2018 04:01:01.361 PM] Unity.Postprocessing.Runtime.dll compilation finished in 392ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:01:01.370 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/02/2018 04:01:01.414 PM] Unity.Postprocessing.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:01.545 PM] Unity.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.dll
- (0,0): [10/02/2018 04:01:01.704 PM] Unity.Properties.dll compilation finished in 426ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:01.712 PM] Unity.TextMeshPro.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.dll
- (0,0): [10/02/2018 04:01:01.757 PM] Unity.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:01.958 PM] Unity.2D.IK.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:02.051 PM] Unity.TextMeshPro.dll compilation finished in 974ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:02.090 PM] Unity.TextMeshPro.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:02.146 PM] Unity.2D.IK.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Runtime.dll
- (0,0): [10/02/2018 04:01:02.229 PM] Unity.Burst.dll compiling...
- (0,0): [10/02/2018 04:01:02.333 PM] Unity.2D.IK.Runtime.dll compilation finished in 374ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:02.352 PM] Unity.Burst.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.dll
- (0,0): [10/02/2018 04:01:02.361 PM] Unity.2D.IK.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:02.386 PM] Unity.Burst.dll compilation finished in 157ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:02.397 PM] Unity.Burst.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:02.532 PM] Unity.2D.PixelPerfect.dll compiling...
- (0,0): [10/02/2018 04:01:02.562 PM] Unity.2D.PixelPerfect.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.dll
- (0,0): [10/02/2018 04:01:02.599 PM] Unity.2D.PixelPerfect.dll compilation finished in 67ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:02.610 PM] Unity.2D.PixelPerfect.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:02.615 PM] Unity.InternalAPIEngineBridge.001.dll compiling...
- (0,0): [10/02/2018 04:01:02.635 PM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
- (0,0): [10/02/2018 04:01:02.663 PM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 48ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:02.675 PM] Unity.InternalAPIEngineBridge.001.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:02.721 PM] Unity.ProGrids.dll compiling...
- (0,0): [10/02/2018 04:01:02.745 PM] Unity.ProGrids.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.dll
- (0,0): [10/02/2018 04:01:02.775 PM] Unity.ProGrids.dll compilation finished in 54ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:02.787 PM] Unity.ProGrids.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:02.831 PM] Unity.2D.Common.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:02.850 PM] Unity.2D.Common.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Runtime.dll
- (0,0): [10/02/2018 04:01:02.879 PM] Unity.2D.Common.Runtime.dll compilation finished in 47ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:02.890 PM] Unity.2D.Common.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:02.980 PM] Unity.ShaderGraph.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:03.065 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:03.403 PM] Unity.2D.SpriteShape.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:03.411 PM] Unity.Mathematics.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.dll
- (0,0): [10/02/2018 04:01:03.552 PM] Unity.ShaderGraph.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
- (0,0): [10/02/2018 04:01:03.568 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/02/2018 04:01:03.573 PM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
- (0,0): [10/02/2018 04:01:03.576 PM] Unity.Mathematics.dll compilation finished in 2205ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:03.588 PM] Unity.Mathematics.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:03.640 PM] Unity.ShaderGraph.Editor.dll compilation finished in 658ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:03.649 PM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 245ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:03.651 PM] Unity.ShaderGraph.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:03.653 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 587ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:03.660 PM] Unity.2D.SpriteShape.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:03.665 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:03.784 PM] Unity.Collections.dll compiling...
- (0,0): [10/02/2018 04:01:03.859 PM] Unity.Collections.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Collections.dll
- (0,0): [10/02/2018 04:01:03.889 PM] Unity.ProGrids.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:03.943 PM] Unity.Collections.dll compilation finished in 159ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:03.964 PM] Unity.Collections.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:03.982 PM] Unity.ProGrids.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.Editor.dll
- (0,0): [10/02/2018 04:01:03.987 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:04.092 PM] Unity.Properties.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Editor.dll
- (0,0): [10/02/2018 04:01:04.099 PM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:04.108 PM] Unity.ProGrids.Editor.dll compilation finished in 218ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:04.121 PM] Unity.ProGrids.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:04.215 PM] Unity.Entities.dll compiling...
- (0,0): [10/02/2018 04:01:04.224 PM] Unity.Postprocessing.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/02/2018 04:01:04.231 PM] Unity.Properties.Editor.dll compilation finished in 243ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:04.250 PM] Unity.Properties.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:04.406 PM] Unity.Jobs.dll compiling...
- (0,0): [10/02/2018 04:01:04.477 PM] Unity.Postprocessing.Editor.dll compilation finished in 378ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:04.481 PM] Unity.Entities.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.dll
- (0,0): [10/02/2018 04:01:04.481 PM] Unity.Jobs.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.dll
- (0,0): [10/02/2018 04:01:04.492 PM] Unity.Postprocessing.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:04.518 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:04.525 PM] Unity.Jobs.dll compilation finished in 118ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:04.542 PM] Unity.Jobs.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:04.697 PM] Unity.Entities.dll compilation finished in 482ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:01:04.707 PM] Unity.2D.Common.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:04.740 PM] Unity.Entities.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:04.762 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/02/2018 04:01:04.780 PM] Unity.2D.Common.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Editor.dll
- (0,0): [10/02/2018 04:01:04.796 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:04.876 PM] Unity.2D.Common.Editor.dll compilation finished in 168ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:04.878 PM] Unity.Burst.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.Editor.dll
- (0,0): [10/02/2018 04:01:04.891 PM] Unity.2D.Common.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:04.937 PM] Unity.TextMeshPro.Editor.dll compilation finished in 419ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:04.951 PM] Unity.TextMeshPro.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:04.952 PM] Unity.Burst.Editor.dll compilation finished in 155ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:04.975 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:01:04.976 PM] Unity.Burst.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.027 PM] Unity.Entities.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/02/2018 04:01:05.075 PM] Unity.2D.PixelPerfect.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:05.099 PM] Unity.Entities.Hybrid.dll compilation finished in 123ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:01:05.101 PM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
- (0,0): [10/02/2018 04:01:05.110 PM] Unity.Entities.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.139 PM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 64ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:05.150 PM] Unity.2D.PixelPerfect.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.174 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/02/2018 04:01:05.223 PM] Unity.Properties.Codegen.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/02/2018 04:01:05.277 PM] Unity.ProBuilder.AddOns.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:05.281 PM] Unity.Properties.Codegen.dll compilation finished in 106ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:05.292 PM] Unity.Properties.Codegen.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.298 PM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
- (0,0): [10/02/2018 04:01:05.331 PM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 53ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:05.342 PM] Unity.ProBuilder.AddOns.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.390 PM] Unity.Transforms.dll compiling...
- (0,0): [10/02/2018 04:01:05.451 PM] Unity.Transforms.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.dll
- (0,0): [10/02/2018 04:01:05.480 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:05.501 PM] Unity.Jobs.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/02/2018 04:01:05.508 PM] Unity.Transforms.dll compilation finished in 118ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:05.520 PM] Unity.Transforms.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.530 PM] Unity.Jobs.Editor.dll compilation finished in 50ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:05.542 PM] Unity.Jobs.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.581 PM] Unity.InternalAPIEditorBridge.001.dll compiling...
- (0,0): [10/02/2018 04:01:05.603 PM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
- (0,0): [10/02/2018 04:01:05.629 PM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 47ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:05.640 PM] Unity.InternalAPIEditorBridge.001.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.682 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:05.714 PM] Unity.Mathematics.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/02/2018 04:01:05.761 PM] Unity.Mathematics.Editor.dll compilation finished in 79ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:05.773 PM] Unity.Mathematics.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.784 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:01:05.829 PM] Unity.Rendering.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/02/2018 04:01:05.869 PM] Unity.Rendering.Hybrid.dll compilation finished in 84ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:05.885 PM] Unity.Rendering.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.890 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/02/2018 04:01:05.926 PM] Unity.Entities.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Properties.dll
- (0,0): [10/02/2018 04:01:05.969 PM] Unity.Entities.Properties.dll compilation finished in 78ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:05.980 PM] Unity.Entities.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:05.986 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:01:06.013 PM] Unity.Transforms.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/02/2018 04:01:06.041 PM] Unity.Transforms.Hybrid.dll compilation finished in 55ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:06.053 PM] Unity.Transforms.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:06.103 PM] Unity.2D.SpriteShape.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:06.206 PM] Unity.2D.IK.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:06.210 PM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
- (0,0): [10/02/2018 04:01:06.263 PM] Unity.2D.IK.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Editor.dll
- (0,0): [10/02/2018 04:01:06.300 PM] Unity.2D.SpriteShape.Editor.dll compilation finished in 197ms  source files re-parsed: 0 metadata reloaded: 3
- (0,0): [10/02/2018 04:01:06.302 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:06.311 PM] Unity.2D.SpriteShape.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:06.311 PM] Unity.2D.IK.Editor.dll compilation finished in 104ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:01:06.360 PM] Unity.2D.IK.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:06.374 PM] Unity.Entities.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Editor.dll
- (0,0): [10/02/2018 04:01:06.430 PM] Unity.Entities.Editor.dll compilation finished in 127ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:06.440 PM] Unity.Entities.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:06.833 PM] Assembly-CSharp-firstpass.dll compiling...
- (0,0): [10/02/2018 04:01:06.857 PM] Assembly-CSharp-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-firstpass.dll
- (0,0): [10/02/2018 04:01:06.882 PM] Assembly-CSharp-firstpass.dll compilation finished in 48ms  source files re-parsed: 0 metadata reloaded: 17
- (0,0): [10/02/2018 04:01:06.893 PM] Assembly-CSharp-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:07.136 PM] Assembly-CSharp-Editor-firstpass.dll compiling...
- (0,0): [10/02/2018 04:01:07.182 PM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
- (0,0): [10/02/2018 04:01:07.226 PM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 89ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:07.237 PM] Assembly-CSharp-Editor-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:14.160 PM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:14.246 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/02/2018 04:01:14.310 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/02/2018 04:01:14.355 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/02/2018 04:01:14.760 PM] Unity.Properties.dll compiling...
- (0,0): [10/02/2018 04:01:14.785 PM] Unity.Postprocessing.Runtime.dll compilation finished in 625ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:14.844 PM] Unity.Postprocessing.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:15.367 PM] Unity.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.dll
- (0,0): [10/02/2018 04:01:15.402 PM] Unity.TextMeshPro.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.dll
- (0,0): [10/02/2018 04:01:15.457 PM] Unity.Properties.dll compilation finished in 697ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:15.481 PM] Unity.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:15.657 PM] Unity.TextMeshPro.dll compilation finished in 1410ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:15.677 PM] Unity.2D.IK.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:15.677 PM] Unity.TextMeshPro.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:15.730 PM] Unity.2D.IK.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Runtime.dll
- (0,0): [10/02/2018 04:01:15.779 PM] Unity.2D.IK.Runtime.dll compilation finished in 101ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:15.791 PM] Unity.2D.IK.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:15.856 PM] Unity.Burst.dll compiling...
- (0,0): [10/02/2018 04:01:15.880 PM] Unity.Burst.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.dll
- (0,0): [10/02/2018 04:01:15.911 PM] Unity.Burst.dll compilation finished in 53ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:15.922 PM] Unity.Burst.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:16.183 PM] Unity.2D.PixelPerfect.dll compiling...
- (0,0): [10/02/2018 04:01:16.229 PM] Unity.2D.PixelPerfect.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.dll
- (0,0): [10/02/2018 04:01:16.257 PM] Unity.Mathematics.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.dll
- (0,0): [10/02/2018 04:01:16.282 PM] Unity.InternalAPIEngineBridge.001.dll compiling...
- (0,0): [10/02/2018 04:01:16.284 PM] Unity.2D.PixelPerfect.dll compilation finished in 101ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:16.296 PM] Unity.2D.PixelPerfect.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:16.304 PM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
- (0,0): [10/02/2018 04:01:16.335 PM] Unity.Mathematics.dll compilation finished in 1979ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:16.344 PM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 61ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:16.354 PM] Unity.Mathematics.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:16.355 PM] Unity.InternalAPIEngineBridge.001.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:16.378 PM] Unity.ProGrids.dll compiling...
- (0,0): [10/02/2018 04:01:16.398 PM] Unity.ProGrids.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.dll
- (0,0): [10/02/2018 04:01:16.425 PM] Unity.ProGrids.dll compilation finished in 47ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:16.437 PM] Unity.ProGrids.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:16.495 PM] Unity.2D.Common.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:16.514 PM] Unity.2D.Common.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Runtime.dll
- (0,0): [10/02/2018 04:01:16.541 PM] Unity.2D.Common.Runtime.dll compilation finished in 45ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:16.552 PM] Unity.2D.Common.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:16.887 PM] Unity.Collections.dll compiling...
- (0,0): [10/02/2018 04:01:16.959 PM] Unity.Collections.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Collections.dll
- (0,0): [10/02/2018 04:01:16.994 PM] Unity.2D.SpriteShape.Runtime.dll compiling...
- (0,0): [10/02/2018 04:01:17.063 PM] Unity.Collections.dll compilation finished in 176ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:17.075 PM] Unity.Collections.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:17.090 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:17.127 PM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
- (0,0): [10/02/2018 04:01:17.181 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/02/2018 04:01:17.216 PM] Unity.ShaderGraph.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:17.307 PM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 312ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:17.322 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 232ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:17.331 PM] Unity.2D.SpriteShape.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:17.440 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:17.648 PM] Unity.Entities.dll compiling...
- (0,0): [10/02/2018 04:01:17.900 PM] Unity.Jobs.dll compiling...
- (0,0): [10/02/2018 04:01:17.907 PM] Unity.ShaderGraph.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
- (0,0): [10/02/2018 04:01:17.941 PM] Unity.Jobs.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.dll
- (0,0): [10/02/2018 04:01:17.945 PM] Unity.Entities.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.dll
- (0,0): [10/02/2018 04:01:17.976 PM] Unity.Jobs.dll compilation finished in 75ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:17.989 PM] Unity.Jobs.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:17.995 PM] Unity.ProGrids.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:18.011 PM] Unity.ShaderGraph.Editor.dll compilation finished in 795ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:18.057 PM] Unity.ShaderGraph.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:18.067 PM] Unity.Entities.dll compilation finished in 418ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:01:18.079 PM] Unity.Entities.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:18.083 PM] Unity.ProGrids.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.Editor.dll
- (0,0): [10/02/2018 04:01:18.160 PM] Unity.ProGrids.Editor.dll compilation finished in 164ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:18.171 PM] Unity.ProGrids.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:18.383 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:01:18.432 PM] Unity.Entities.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/02/2018 04:01:18.479 PM] Unity.Entities.Hybrid.dll compilation finished in 96ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:01:18.490 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:18.491 PM] Unity.Entities.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:18.567 PM] Unity.Properties.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Editor.dll
- (0,0): [10/02/2018 04:01:18.579 PM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:18.683 PM] Unity.Postprocessing.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/02/2018 04:01:18.684 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:18.723 PM] Unity.Properties.Editor.dll compilation finished in 233ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:18.844 PM] Unity.Properties.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:18.889 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/02/2018 04:01:18.891 PM] Unity.Transforms.dll compiling...
- (0,0): [10/02/2018 04:01:18.936 PM] Unity.Postprocessing.Editor.dll compilation finished in 356ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:18.964 PM] Unity.Postprocessing.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:18.990 PM] Unity.Transforms.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.dll
- (0,0): [10/02/2018 04:01:19.057 PM] Unity.Transforms.dll compilation finished in 165ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:19.065 PM] Unity.TextMeshPro.Editor.dll compilation finished in 380ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:19.075 PM] Unity.Transforms.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:19.080 PM] Unity.2D.Common.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:19.082 PM] Unity.TextMeshPro.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:19.136 PM] Unity.2D.Common.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Editor.dll
- (0,0): [10/02/2018 04:01:19.180 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:19.202 PM] Unity.2D.Common.Editor.dll compilation finished in 121ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:19.214 PM] Unity.2D.Common.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:19.226 PM] Unity.Burst.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.Editor.dll
- (0,0): [10/02/2018 04:01:19.280 PM] Unity.Burst.Editor.dll compilation finished in 99ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:19.291 PM] Unity.Burst.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:19.483 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:01:19.541 PM] Unity.Rendering.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/02/2018 04:01:19.589 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/02/2018 04:01:19.595 PM] Unity.Rendering.Hybrid.dll compilation finished in 111ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:19.606 PM] Unity.Rendering.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:19.647 PM] Unity.Entities.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Properties.dll
- (0,0): [10/02/2018 04:01:19.693 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:01:19.714 PM] Unity.Entities.Properties.dll compilation finished in 125ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:19.724 PM] Unity.Transforms.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/02/2018 04:01:19.725 PM] Unity.Entities.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:19.761 PM] Unity.Transforms.Hybrid.dll compilation finished in 67ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:19.775 PM] Unity.Transforms.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:19.794 PM] Unity.2D.PixelPerfect.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:19.825 PM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
- (0,0): [10/02/2018 04:01:19.861 PM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 66ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:19.873 PM] Unity.2D.PixelPerfect.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:20.146 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:20.234 PM] Unity.Entities.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Editor.dll
- (0,0): [10/02/2018 04:01:20.253 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/02/2018 04:01:20.294 PM] Unity.Properties.Codegen.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/02/2018 04:01:20.315 PM] Unity.Entities.Editor.dll compilation finished in 169ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:20.327 PM] Unity.Entities.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:20.346 PM] Unity.ProBuilder.AddOns.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:20.349 PM] Unity.Properties.Codegen.dll compilation finished in 95ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:20.361 PM] Unity.Properties.Codegen.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:20.365 PM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
- (0,0): [10/02/2018 04:01:20.394 PM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 47ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:20.405 PM] Unity.ProBuilder.AddOns.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:20.468 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:20.493 PM] Unity.Jobs.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/02/2018 04:01:20.521 PM] Unity.Jobs.Editor.dll compilation finished in 53ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:20.532 PM] Unity.Jobs.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:20.611 PM] Unity.InternalAPIEditorBridge.001.dll compiling...
- (0,0): [10/02/2018 04:01:20.634 PM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
- (0,0): [10/02/2018 04:01:20.661 PM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 50ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:20.673 PM] Unity.InternalAPIEditorBridge.001.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:20.710 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:20.739 PM] Unity.Mathematics.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/02/2018 04:01:20.790 PM] Unity.Mathematics.Editor.dll compilation finished in 80ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:01:20.806 PM] Unity.Mathematics.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:20.925 PM] Unity.2D.SpriteShape.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:21.072 PM] Unity.2D.IK.Editor.dll compiling...
- (0,0): [10/02/2018 04:01:21.103 PM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
- (0,0): [10/02/2018 04:01:21.123 PM] Unity.2D.IK.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Editor.dll
- (0,0): [10/02/2018 04:01:21.205 PM] Unity.2D.IK.Editor.dll compilation finished in 133ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:01:21.212 PM] Unity.2D.SpriteShape.Editor.dll compilation finished in 287ms  source files re-parsed: 0 metadata reloaded: 3
- (0,0): [10/02/2018 04:01:21.219 PM] Unity.2D.IK.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:21.224 PM] Unity.2D.SpriteShape.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:21.823 PM] Assembly-CSharp-firstpass.dll compiling...
- (0,0): [10/02/2018 04:01:21.847 PM] Assembly-CSharp-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-firstpass.dll
- (0,0): [10/02/2018 04:01:21.873 PM] Assembly-CSharp-firstpass.dll compilation finished in 49ms  source files re-parsed: 0 metadata reloaded: 17
- (0,0): [10/02/2018 04:01:21.885 PM] Assembly-CSharp-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:01:22.144 PM] Assembly-CSharp-Editor-firstpass.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:01:22.157 PM] Assembly-CSharp-Editor-firstpass.dll compiling...
- (0,0): [10/02/2018 04:01:22.195 PM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
- (0,0): [10/02/2018 04:01:22.238 PM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 80ms  source files re-parsed: 4 metadata reloaded: 1
- (0,0): [10/02/2018 04:01:27.338 PM] Compiler cache size is now 20.91 MB
- (0,0): [10/02/2018 04:05:03.173 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:05:03.184 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:05:03.204 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:05:03.231 PM] Assembly-CSharp.dll compilation finished in 46ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:07:13.911 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:07:13.923 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:07:13.946 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:07:13.978 PM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:11:47.709 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:11:47.737 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:11:47.762 PM] Assembly-CSharp.dll compilation finished in 53ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:11:47.774 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/02/2018 04:12:00.580 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:12:00.592 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:12:00.613 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:12:00.639 PM] Assembly-CSharp.dll compilation finished in 47ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:12:01.686 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:12:01.707 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:12:01.732 PM] Assembly-CSharp.dll compilation finished in 45ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:12:01.743 PM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:12:53.638 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:12:53.660 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:12:53.688 PM] Assembly-CSharp.dll compilation finished in 49ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:12:53.699 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:03.430 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:13:03.442 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:13:03.462 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:13:03.489 PM] Assembly-CSharp.dll compilation finished in 46ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:15.491 PM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/02/2018 04:13:15.591 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/02/2018 04:13:15.626 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/02/2018 04:13:15.762 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/02/2018 04:13:15.764 PM] Unity.Postprocessing.Runtime.dll compilation finished in 273ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:15.784 PM] Unity.Postprocessing.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:15.851 PM] Unity.Properties.dll compiling...
- (0,0): [10/02/2018 04:13:16.282 PM] Unity.TextMeshPro.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.dll
- (0,0): [10/02/2018 04:13:16.292 PM] Unity.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.dll
- (0,0): [10/02/2018 04:13:16.499 PM] Unity.Properties.dll compilation finished in 648ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:16.512 PM] Unity.TextMeshPro.dll compilation finished in 919ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:16.529 PM] Unity.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:16.537 PM] Unity.TextMeshPro.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:16.552 PM] Unity.2D.IK.Runtime.dll compiling...
- (0,0): [10/02/2018 04:13:16.727 PM] Unity.2D.IK.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Runtime.dll
- (0,0): [10/02/2018 04:13:17.279 PM] Unity.2D.IK.Runtime.dll compilation finished in 727ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:17.323 PM] Unity.2D.IK.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:17.509 PM] Unity.Mathematics.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.dll
- (0,0): [10/02/2018 04:13:17.568 PM] Unity.Mathematics.dll compilation finished in 1805ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:17.579 PM] Unity.Mathematics.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:18.242 PM] Unity.Collections.dll compiling...
- (0,0): [10/02/2018 04:13:18.293 PM] Unity.Collections.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Collections.dll
- (0,0): [10/02/2018 04:13:18.337 PM] Unity.Collections.dll compilation finished in 95ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:18.338 PM] Unity.Burst.dll compiling...
- (0,0): [10/02/2018 04:13:18.349 PM] Unity.Collections.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:18.379 PM] Unity.Burst.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.dll
- (0,0): [10/02/2018 04:13:18.406 PM] Unity.Burst.dll compilation finished in 67ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:18.417 PM] Unity.Burst.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:18.438 PM] Unity.2D.PixelPerfect.dll compiling...
- (0,0): [10/02/2018 04:13:18.464 PM] Unity.2D.PixelPerfect.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.dll
- (0,0): [10/02/2018 04:13:18.501 PM] Unity.2D.PixelPerfect.dll compilation finished in 63ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:18.513 PM] Unity.2D.PixelPerfect.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:18.542 PM] Unity.InternalAPIEngineBridge.001.dll compiling...
- (0,0): [10/02/2018 04:13:18.561 PM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
- (0,0): [10/02/2018 04:13:18.585 PM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 44ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:18.596 PM] Unity.InternalAPIEngineBridge.001.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:18.639 PM] Unity.Jobs.dll compiling...
- (0,0): [10/02/2018 04:13:18.679 PM] Unity.Jobs.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.dll
- (0,0): [10/02/2018 04:13:18.704 PM] Unity.Jobs.dll compilation finished in 65ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:18.716 PM] Unity.Jobs.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:18.961 PM] Unity.ProGrids.dll compiling...
- (0,0): [10/02/2018 04:13:18.981 PM] Unity.ProGrids.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.dll
- (0,0): [10/02/2018 04:13:19.007 PM] Unity.ProGrids.dll compilation finished in 45ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:19.019 PM] Unity.ProGrids.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:19.053 PM] Unity.Entities.dll compiling...
- (0,0): [10/02/2018 04:13:19.176 PM] Unity.2D.Common.Runtime.dll compiling...
- (0,0): [10/02/2018 04:13:19.212 PM] Unity.2D.Common.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Runtime.dll
- (0,0): [10/02/2018 04:13:19.239 PM] Unity.2D.Common.Runtime.dll compilation finished in 62ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:19.251 PM] Unity.2D.Common.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:19.301 PM] Unity.Entities.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.dll
- (0,0): [10/02/2018 04:13:19.305 PM] Unity.ShaderGraph.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:19.387 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:19.479 PM] Unity.Entities.dll compilation finished in 426ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:19.495 PM] Unity.Entities.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:19.599 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/02/2018 04:13:19.762 PM] Unity.2D.SpriteShape.Runtime.dll compiling...
- (0,0): [10/02/2018 04:13:19.819 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 431ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:19.849 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:19.883 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:13:19.943 PM] Unity.ShaderGraph.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
- (0,0): [10/02/2018 04:13:19.946 PM] Unity.Entities.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/02/2018 04:13:19.946 PM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
- (0,0): [10/02/2018 04:13:19.989 PM] Unity.Entities.Hybrid.dll compilation finished in 106ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/02/2018 04:13:20.001 PM] Unity.Entities.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:20.021 PM] Unity.ShaderGraph.Editor.dll compilation finished in 717ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:20.021 PM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 259ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:20.033 PM] Unity.ShaderGraph.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:20.044 PM] Unity.2D.SpriteShape.Runtime.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:20.374 PM] Unity.Transforms.dll compiling...
- (0,0): [10/02/2018 04:13:20.437 PM] Unity.Transforms.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.dll
- (0,0): [10/02/2018 04:13:20.475 PM] Unity.ProGrids.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:20.487 PM] Unity.Transforms.dll compilation finished in 112ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:20.499 PM] Unity.Transforms.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:20.584 PM] Unity.ProGrids.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProGrids.Editor.dll
- (0,0): [10/02/2018 04:13:20.596 PM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:20.704 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:20.734 PM] Unity.Postprocessing.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/02/2018 04:13:20.783 PM] Unity.ProGrids.Editor.dll compilation finished in 307ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:20.798 PM] Unity.ProGrids.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:20.812 PM] Unity.Properties.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Editor.dll
- (0,0): [10/02/2018 04:13:20.814 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:13:20.840 PM] Unity.Postprocessing.Editor.dll compilation finished in 243ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:20.858 PM] Unity.Postprocessing.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:20.873 PM] Unity.Rendering.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/02/2018 04:13:20.884 PM] Unity.Properties.Editor.dll compilation finished in 180ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:20.896 PM] Unity.Properties.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:20.913 PM] Unity.Rendering.Hybrid.dll compilation finished in 99ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:20.925 PM] Unity.Rendering.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:21.106 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/02/2018 04:13:21.140 PM] Unity.Entities.Properties.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Properties.dll
- (0,0): [10/02/2018 04:13:21.183 PM] Unity.Entities.Properties.dll compilation finished in 78ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:21.195 PM] Unity.Entities.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:21.212 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/02/2018 04:13:21.237 PM] Unity.Transforms.Hybrid.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/02/2018 04:13:21.264 PM] Unity.Transforms.Hybrid.dll compilation finished in 52ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:21.276 PM] Unity.Transforms.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:21.308 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:21.414 PM] Unity.2D.Common.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:21.466 PM] Unity.2D.Common.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.Common.Editor.dll
- (0,0): [10/02/2018 04:13:21.480 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/02/2018 04:13:21.512 PM] Unity.2D.Common.Editor.dll compilation finished in 97ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:21.523 PM] Unity.2D.Common.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:21.630 PM] Unity.TextMeshPro.Editor.dll compilation finished in 321ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:21.648 PM] Unity.TextMeshPro.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:21.719 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:21.825 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:21.827 PM] Unity.Entities.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Entities.Editor.dll
- (0,0): [10/02/2018 04:13:21.881 PM] Unity.Burst.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Burst.Editor.dll
- (0,0): [10/02/2018 04:13:21.912 PM] Unity.Entities.Editor.dll compilation finished in 192ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:21.924 PM] Unity.Entities.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:21.938 PM] Unity.Burst.Editor.dll compilation finished in 112ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:21.943 PM] Unity.2D.PixelPerfect.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:21.949 PM] Unity.Burst.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:21.971 PM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
- (0,0): [10/02/2018 04:13:22.011 PM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 68ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:22.023 PM] Unity.2D.PixelPerfect.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:22.034 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/02/2018 04:13:22.091 PM] Unity.Properties.Codegen.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/02/2018 04:13:22.145 PM] Unity.ProBuilder.AddOns.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:22.175 PM] Unity.Properties.Codegen.dll compilation finished in 140ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:22.180 PM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
- (0,0): [10/02/2018 04:13:22.186 PM] Unity.Properties.Codegen.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:22.251 PM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 105ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:22.251 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:22.266 PM] Unity.ProBuilder.AddOns.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:22.288 PM] Unity.Jobs.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/02/2018 04:13:22.315 PM] Unity.Jobs.Editor.dll compilation finished in 63ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:22.327 PM] Unity.Jobs.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:22.349 PM] Unity.InternalAPIEditorBridge.001.dll compiling...
- (0,0): [10/02/2018 04:13:22.379 PM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
- (0,0): [10/02/2018 04:13:22.444 PM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 95ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:22.473 PM] Unity.InternalAPIEditorBridge.001.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:22.473 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:22.526 PM] Unity.Mathematics.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/02/2018 04:13:22.568 PM] Unity.Mathematics.Editor.dll compilation finished in 94ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:22.579 PM] Unity.Mathematics.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:22.780 PM] Unity.2D.IK.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:22.830 PM] Unity.2D.IK.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.IK.Editor.dll
- (0,0): [10/02/2018 04:13:22.889 PM] Unity.2D.SpriteShape.Editor.dll compiling...
- (0,0): [10/02/2018 04:13:22.914 PM] Unity.2D.IK.Editor.dll compilation finished in 133ms  source files re-parsed: 0 metadata reloaded: 4
- (0,0): [10/02/2018 04:13:22.926 PM] Unity.2D.IK.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:23.003 PM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
- (0,0): [10/02/2018 04:13:23.095 PM] Unity.2D.SpriteShape.Editor.dll compilation finished in 206ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:23.107 PM] Unity.2D.SpriteShape.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:23.659 PM] Assembly-CSharp-firstpass.dll compiling...
- (0,0): [10/02/2018 04:13:23.685 PM] Assembly-CSharp-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-firstpass.dll
- (0,0): [10/02/2018 04:13:23.715 PM] Assembly-CSharp-firstpass.dll compilation finished in 56ms  source files re-parsed: 0 metadata reloaded: 17
- (0,0): [10/02/2018 04:13:23.727 PM] Assembly-CSharp-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:23.985 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:13:24.002 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:13:24.038 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:13:24.072 PM] Assembly-CSharp-Editor-firstpass.dll compiling...
- (0,0): [10/02/2018 04:13:24.084 PM] Assembly-CSharp.dll compilation finished in 82ms  source files re-parsed: 2 metadata reloaded: 1
- (0,0): [10/02/2018 04:13:24.118 PM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
- (0,0): [10/02/2018 04:13:24.165 PM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 92ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/02/2018 04:13:24.177 PM] Assembly-CSharp-Editor-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/02/2018 04:13:37.411 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:13:37.423 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:13:37.443 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:13:37.482 PM] Assembly-CSharp.dll compilation finished in 59ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:19:18.300 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:19:18.322 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:19:18.355 PM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:19:18.367 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/02/2018 04:23:30.637 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:23:30.650 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:23:30.674 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:23:30.708 PM] Assembly-CSharp.dll compilation finished in 58ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/02/2018 04:23:44.847 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:23:44.859 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:23:44.882 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:23:44.911 PM] Assembly-CSharp.dll compilation finished in 52ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [10/02/2018 04:23:54.003 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:23:54.015 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:23:54.036 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:23:54.065 PM] Assembly-CSharp.dll compilation finished in 49ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [10/02/2018 04:29:11.010 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:29:11.046 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:29:11.059 PM] Assembly-CSharp.dll compilation finished in 48ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:29:11.071 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/02/2018 04:35:12.682 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:35:12.703 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:35:12.735 PM] Assembly-CSharp.dll compilation finished in 53ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:35:12.746 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/02/2018 04:35:29.177 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/02/2018 04:35:29.188 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:35:29.211 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:35:29.237 PM] Assembly-CSharp.dll compilation finished in 49ms  source files re-parsed: 5 metadata reloaded: 0
- (0,0): [10/02/2018 04:37:00.651 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:37:00.692 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:37:00.706 PM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:37:00.718 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/02/2018 04:37:10.109 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:37:10.133 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:37:10.161 PM] Assembly-CSharp.dll compilation finished in 52ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:37:10.173 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/02/2018 04:39:10.189 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:39:10.210 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:39:10.236 PM] Assembly-CSharp.dll compilation finished in 47ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:39:10.248 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
- (0,0): [10/02/2018 04:40:02.692 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:40:02.713 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:40:02.738 PM] Assembly-CSharp.dll compilation finished in 45ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/02/2018 04:40:02.749 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
- (0,0): [10/02/2018 04:40:13.639 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 04:40:13.661 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 04:40:13.686 PM] Assembly-CSharp.dll compilation finished in 46ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 04:40:13.697 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/02/2018 05:17:25.995 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/02/2018 05:17:26.025 PM] Assembly-CSharp.dll: emitting IL to : F:\UnityProjects\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/02/2018 05:17:26.075 PM] Assembly-CSharp.dll compilation finished in 78ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/02/2018 05:17:26.095 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): watchdog active on pid: 13960
+ (0,0): [10/11/2018 06:48:00.428 AM] Unity.Mathematics.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:00.452 AM] Unity.Mathematics.dll compiling...
+ (0,0): [10/11/2018 06:48:00.497 AM] Unity.2D.PixelPerfect.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:00.517 AM] Unity.2D.PixelPerfect.dll compiling...
+ (0,0): [10/11/2018 06:48:01.052 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:01.060 AM] Unity.TextMeshPro.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:01.072 AM] Unity.Postprocessing.Runtime.dll compiling...
+ (0,0): [10/11/2018 06:48:01.076 AM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/11/2018 06:48:01.304 AM] Unity.Properties.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:01.320 AM] Unity.Properties.dll compiling...
+ (0,0): [10/11/2018 06:48:01.388 AM] Unity.2D.IK.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:01.404 AM] Unity.2D.IK.Runtime.dll compiling...
+ (0,0): [10/11/2018 06:48:01.472 AM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:01.488 AM] Unity.InternalAPIEngineBridge.001.dll compiling...
+ (0,0): [10/11/2018 06:48:01.472 AM] Unity.Burst.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:01.508 AM] Unity.Burst.dll compiling...
+ (0,0): [10/11/2018 06:48:09.006 AM] Unity.Burst.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.dll
+ (0,0): [10/11/2018 06:48:09.014 AM] Unity.2D.IK.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Runtime.dll
+ (0,0): [10/11/2018 06:48:09.014 AM] Unity.2D.PixelPerfect.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.dll
+ (0,0): [10/11/2018 06:48:09.014 AM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
+ (0,0): [10/11/2018 06:48:09.169 AM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 7682ms  source files re-parsed: 2 metadata reloaded: 95
+ (0,0): [10/11/2018 06:48:09.219 AM] Unity.2D.PixelPerfect.dll compilation finished in 8705ms  source files re-parsed: 3 metadata reloaded: 205
+ (0,0): [10/11/2018 06:48:09.262 AM] Unity.Burst.dll compilation finished in 7758ms  source files re-parsed: 3 metadata reloaded: 94
+ (0,0): [10/11/2018 06:48:09.392 AM] Unity.2D.IK.Runtime.dll compilation finished in 7990ms  source files re-parsed: 13 metadata reloaded: 98
+ (0,0): [10/11/2018 06:48:09.420 AM] Unity.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.dll
+ (0,0): [10/11/2018 06:48:09.793 AM] Unity.Properties.dll compilation finished in 8476ms  source files re-parsed: 34 metadata reloaded: 100
+ (0,0): [10/11/2018 06:48:10.379 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
+ (0,0): [10/11/2018 06:48:11.019 AM] Unity.ProGrids.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:11.035 AM] Unity.ProGrids.dll compiling...
+ (0,0): [10/11/2018 06:48:11.107 AM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:11.121 AM] Unity.ProGrids.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.dll
+ (0,0): [10/11/2018 06:48:11.121 AM] Unity.Postprocessing.Runtime.dll compilation finished in 10051ms  source files re-parsed: 56 metadata reloaded: 106
+ (0,0): [10/11/2018 06:48:11.125 AM] Unity.2D.Common.Runtime.dll compiling...
+ (0,0): [10/11/2018 06:48:11.236 AM] Unity.ProGrids.dll compilation finished in 202ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:11.248 AM] Unity.2D.Common.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Runtime.dll
+ (0,0): [10/11/2018 06:48:11.331 AM] Unity.2D.Common.Runtime.dll compilation finished in 208ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:11.378 AM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/11/2018 06:48:11.732 AM] Unity.TextMeshPro.dll compilation finished in 10657ms  source files re-parsed: 45 metadata reloaded: 106
+ (0,0): [10/11/2018 06:48:11.871 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:11.887 AM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:12.128 AM] Unity.ShaderGraph.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:12.189 AM] Unity.ShaderGraph.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:12.490 AM] Unity.Properties.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:12.510 AM] Unity.Properties.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:12.608 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/11/2018 06:48:12.865 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 982ms  source files re-parsed: 44 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:12.971 AM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:13.068 AM] Unity.2D.SpriteShape.Runtime.dll compiling...
+ (0,0): [10/11/2018 06:48:13.190 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:13.257 AM] Unity.Postprocessing.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:13.290 AM] Unity.ProGrids.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:13.418 AM] Unity.ProGrids.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:13.555 AM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Editor.dll
+ (0,0): [10/11/2018 06:48:13.914 AM] Unity.Properties.Editor.dll compilation finished in 1405ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:13.950 AM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:13.968 AM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:14.172 AM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:14.297 AM] Unity.2D.Common.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:14.375 AM] Unity.Mathematics.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.dll
+ (0,0): [10/11/2018 06:48:14.577 AM] Unity.Burst.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:14.646 AM] Unity.Burst.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:14.734 AM] Unity.ProGrids.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.Editor.dll
+ (0,0): [10/11/2018 06:48:14.762 AM] Unity.Mathematics.dll compilation finished in 14309ms  source files re-parsed: 81 metadata reloaded: 213
+ (0,0): [10/11/2018 06:48:14.766 AM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
+ (0,0): [10/11/2018 06:48:14.988 AM] Unity.ProGrids.Editor.dll compilation finished in 1570ms  source files re-parsed: 20 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:14.996 AM] Unity.2D.Common.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Editor.dll
+ (0,0): [10/11/2018 06:48:14.988 AM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 1920ms  source files re-parsed: 6 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:14.996 AM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Editor.dll
+ (0,0): [10/11/2018 06:48:15.488 AM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.Editor.dll
+ (0,0): [10/11/2018 06:48:15.632 AM] Unity.Collections.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:15.636 AM] Unity.2D.Common.Editor.dll compilation finished in 1340ms  source files re-parsed: 5 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:15.648 AM] Unity.Collections.dll compiling...
+ (0,0): [10/11/2018 06:48:15.885 AM] Unity.Burst.Editor.dll compilation finished in 1241ms  source files re-parsed: 10 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:16.011 AM] Unity.Postprocessing.Editor.dll compilation finished in 2752ms  source files re-parsed: 35 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:16.015 AM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/11/2018 06:48:16.039 AM] Unity.2D.PixelPerfect.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:16.060 AM] Unity.2D.PixelPerfect.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:16.065 AM] Unity.Collections.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Collections.dll
+ (0,0): [10/11/2018 06:48:16.136 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:16.157 AM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [10/11/2018 06:48:16.164 AM] Unity.ShaderGraph.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
+ (0,0): [10/11/2018 06:48:16.211 AM] Unity.Collections.dll compilation finished in 561ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:16.215 AM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
+ (0,0): [10/11/2018 06:48:16.277 AM] Unity.ProBuilder.AddOns.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:16.306 AM] Unity.ProBuilder.AddOns.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:16.359 AM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 302ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:16.365 AM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Codegen.dll
+ (0,0): [10/11/2018 06:48:16.425 AM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
+ (0,0): [10/11/2018 06:48:16.540 AM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:16.555 AM] Unity.InternalAPIEditorBridge.001.dll compiling...
+ (0,0): [10/11/2018 06:48:16.568 AM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 263ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:16.580 AM] Unity.ShaderGraph.Editor.dll compilation finished in 4395ms  source files re-parsed: 378 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:16.637 AM] Unity.Properties.Codegen.dll compilation finished in 482ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:16.646 AM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
+ (0,0): [10/11/2018 06:48:16.674 AM] Unity.TextMeshPro.Editor.dll compilation finished in 2708ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:16.682 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:16.702 AM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:16.722 AM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 167ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:16.799 AM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [10/11/2018 06:48:16.901 AM] Unity.Mathematics.Editor.dll compilation finished in 202ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:17.002 AM] Unity.Entities.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:17.022 AM] Unity.Entities.dll compiling...
+ (0,0): [10/11/2018 06:48:17.159 AM] Unity.Jobs.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:17.179 AM] Unity.Jobs.dll compiling...
+ (0,0): [10/11/2018 06:48:17.420 AM] Unity.Jobs.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.dll
+ (0,0): [10/11/2018 06:48:17.566 AM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:17.618 AM] Unity.2D.SpriteShape.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:17.624 AM] Unity.Jobs.dll compilation finished in 444ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:17.670 AM] Unity.2D.IK.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:17.745 AM] Unity.2D.IK.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:18.005 AM] Unity.2D.IK.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Editor.dll
+ (0,0): [10/11/2018 06:48:18.049 AM] Unity.Entities.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.dll
+ (0,0): [10/11/2018 06:48:18.065 AM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
+ (0,0): [10/11/2018 06:48:18.133 AM] Unity.2D.IK.Editor.dll compilation finished in 389ms  source files re-parsed: 8 metadata reloaded: 2
+ (0,0): [10/11/2018 06:48:18.149 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:18.165 AM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:18.229 AM] Unity.Entities.dll compilation finished in 1208ms  source files re-parsed: 57 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:18.237 AM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.Editor.dll
+ (0,0): [10/11/2018 06:48:18.249 AM] Unity.2D.SpriteShape.Editor.dll compilation finished in 632ms  source files re-parsed: 20 metadata reloaded: 3
+ (0,0): [10/11/2018 06:48:18.290 AM] Unity.Jobs.Editor.dll compilation finished in 126ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:18.668 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:18.685 AM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [10/11/2018 06:48:18.791 AM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [10/11/2018 06:48:18.885 AM] Unity.Entities.Hybrid.dll compilation finished in 202ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:19.411 AM] Unity.Transforms.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:19.427 AM] Unity.Transforms.dll compiling...
+ (0,0): [10/11/2018 06:48:19.570 AM] Unity.Transforms.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.dll
+ (0,0): [10/11/2018 06:48:19.676 AM] Unity.Transforms.dll compilation finished in 250ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:20.362 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:20.378 AM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [10/11/2018 06:48:20.446 AM] Unity.Entities.Properties.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:20.462 AM] Unity.Entities.Properties.dll compiling...
+ (0,0): [10/11/2018 06:48:20.470 AM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [10/11/2018 06:48:20.567 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:20.583 AM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [10/11/2018 06:48:20.587 AM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Properties.dll
+ (0,0): [10/11/2018 06:48:20.591 AM] Unity.Rendering.Hybrid.dll compilation finished in 214ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:20.660 AM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [10/11/2018 06:48:20.692 AM] Unity.Entities.Properties.dll compilation finished in 233ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:20.728 AM] Unity.Transforms.Hybrid.dll compilation finished in 148ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/11/2018 06:48:21.683 AM] Unity.Entities.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:21.698 AM] Unity.Entities.Editor.dll compiling...
+ (0,0): [10/11/2018 06:48:21.885 AM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Editor.dll
+ (0,0): [10/11/2018 06:48:22.004 AM] Unity.Entities.Editor.dll compilation finished in 305ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:30.187 AM] Assembly-CSharp-firstpass.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:30.201 AM] Assembly-CSharp-firstpass.dll compiling...
+ (0,0): [10/11/2018 06:48:30.295 AM] Assembly-CSharp-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-firstpass.dll
+ (0,0): [10/11/2018 06:48:30.347 AM] Assembly-CSharp-firstpass.dll compilation finished in 148ms  source files re-parsed: 1 metadata reloaded: 17
+ (0,0): [10/11/2018 06:48:31.081 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:31.097 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 06:48:31.162 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 06:48:31.190 AM] Assembly-CSharp-Editor-firstpass.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 06:48:31.206 AM] Assembly-CSharp-Editor-firstpass.dll compiling...
+ (0,0): [10/11/2018 06:48:31.222 AM] Assembly-CSharp.dll compilation finished in 125ms  source files re-parsed: 5 metadata reloaded: 1
+ (0,0): [10/11/2018 06:48:31.322 AM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
+ (0,0): [10/11/2018 06:48:31.459 AM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 256ms  source files re-parsed: 4 metadata reloaded: 0
+ (0,0): [10/11/2018 06:51:58.652 AM] Compiler cache size is now 20.91 MB
+ (0,0): [10/11/2018 07:10:29.790 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:10:29.866 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:10:29.930 AM] Assembly-CSharp.dll compilation finished in 140ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:10:29.943 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:10:54.145 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:10:54.159 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:10:54.221 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:10:54.284 AM] Assembly-CSharp.dll compilation finished in 125ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/11/2018 07:19:18.659 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:19:18.716 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:19:18.779 AM] Assembly-CSharp.dll compilation finished in 119ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/11/2018 07:19:18.793 AM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:21:54.147 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:21:54.190 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:21:54.242 AM] Assembly-CSharp.dll compilation finished in 95ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:21:54.255 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:22:24.198 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:22:24.236 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:22:24.283 AM] Assembly-CSharp.dll compilation finished in 85ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:22:24.296 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:24:16.780 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:24:16.793 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:24:16.833 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:24:16.876 AM] Assembly-CSharp.dll compilation finished in 83ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [10/11/2018 07:32:52.303 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:32:52.340 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:32:52.379 AM] Assembly-CSharp.dll compilation finished in 74ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/11/2018 07:32:52.391 AM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:35:33.046 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:35:33.084 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:35:33.124 AM] Assembly-CSharp.dll compilation finished in 79ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:35:33.138 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:37:02.141 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:37:02.181 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:37:02.228 AM] Assembly-CSharp.dll compilation finished in 87ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:37:02.240 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:49:28.103 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:49:28.144 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:49:28.183 AM] Assembly-CSharp.dll compilation finished in 80ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 07:49:28.195 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:49:46.966 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:49:46.979 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:49:47.014 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:49:47.053 AM] Assembly-CSharp.dll compilation finished in 74ms  source files re-parsed: 8 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:47.618 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:55:47.702 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:55:47.717 AM] Assembly-CSharp.dll compilation finished in 98ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:47.729 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:55:55.243 AM] Unity.Mathematics.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:55.256 AM] Unity.Mathematics.dll compiling...
+ (0,0): [10/11/2018 07:55:55.513 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:55.571 AM] Unity.Postprocessing.Runtime.dll compiling...
+ (0,0): [10/11/2018 07:55:56.080 AM] Unity.TextMeshPro.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:56.084 AM] Unity.2D.IK.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:56.081 AM] Unity.Properties.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:56.145 AM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/11/2018 07:55:56.156 AM] Unity.Properties.dll compiling...
+ (0,0): [10/11/2018 07:55:56.212 AM] Unity.Burst.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:56.141 AM] Unity.2D.IK.Runtime.dll compiling...
+ (0,0): [10/11/2018 07:55:56.290 AM] Unity.Burst.dll compiling...
+ (0,0): [10/11/2018 07:55:56.356 AM] Unity.2D.PixelPerfect.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:56.369 AM] Unity.2D.PixelPerfect.dll compiling...
+ (0,0): [10/11/2018 07:55:56.451 AM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:56.495 AM] Unity.InternalAPIEngineBridge.001.dll compiling...
+ (0,0): [10/11/2018 07:55:56.561 AM] Unity.Burst.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.dll
+ (0,0): [10/11/2018 07:55:56.608 AM] Unity.2D.IK.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Runtime.dll
+ (0,0): [10/11/2018 07:55:56.691 AM] Unity.2D.PixelPerfect.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.dll
+ (0,0): [10/11/2018 07:55:56.699 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
+ (0,0): [10/11/2018 07:55:56.763 AM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
+ (0,0): [10/11/2018 07:55:56.801 AM] Unity.2D.PixelPerfect.dll compilation finished in 432ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:56.805 AM] Unity.2D.IK.Runtime.dll compilation finished in 664ms  source files re-parsed: 13 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:56.814 AM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 319ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:56.804 AM] Unity.Burst.dll compilation finished in 513ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:56.915 AM] Unity.Postprocessing.Runtime.dll compilation finished in 1343ms  source files re-parsed: 56 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:57.754 AM] Unity.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.dll
+ (0,0): [10/11/2018 07:55:58.029 AM] Unity.Properties.dll compilation finished in 1873ms  source files re-parsed: 34 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:58.047 AM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/11/2018 07:55:58.286 AM] Unity.TextMeshPro.dll compilation finished in 2141ms  source files re-parsed: 45 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:58.366 AM] Unity.ProGrids.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:58.380 AM] Unity.ProGrids.dll compiling...
+ (0,0): [10/11/2018 07:55:58.427 AM] Unity.ProGrids.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.dll
+ (0,0): [10/11/2018 07:55:58.469 AM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:58.478 AM] Unity.ProGrids.dll compilation finished in 98ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:58.481 AM] Unity.2D.Common.Runtime.dll compiling...
+ (0,0): [10/11/2018 07:55:58.519 AM] Unity.2D.Common.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Runtime.dll
+ (0,0): [10/11/2018 07:55:58.575 AM] Unity.2D.Common.Runtime.dll compilation finished in 94ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:55:58.894 AM] Unity.ShaderGraph.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:58.924 AM] Unity.ShaderGraph.Editor.dll compiling...
+ (0,0): [10/11/2018 07:55:58.949 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:58.990 AM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/11/2018 07:55:59.248 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:55:59.260 AM] Unity.Postprocessing.Editor.dll compiling...
+ (0,0): [10/11/2018 07:55:59.451 AM] Unity.Mathematics.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.dll
+ (0,0): [10/11/2018 07:55:59.707 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/11/2018 07:56:00.082 AM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:00.083 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 1093ms  source files re-parsed: 44 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:00.085 AM] Unity.Mathematics.dll compilation finished in 4829ms  source files re-parsed: 81 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:00.096 AM] Unity.2D.SpriteShape.Runtime.dll compiling...
+ (0,0): [10/11/2018 07:56:00.156 AM] Unity.ProGrids.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:00.169 AM] Unity.ProGrids.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:00.638 AM] Unity.Properties.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:00.734 AM] Unity.Properties.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:00.748 AM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Editor.dll
+ (0,0): [10/11/2018 07:56:00.841 AM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:00.854 AM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:01.179 AM] Unity.Postprocessing.Editor.dll compilation finished in 1919ms  source files re-parsed: 35 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:01.181 AM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
+ (0,0): [10/11/2018 07:56:01.312 AM] Unity.ShaderGraph.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
+ (0,0): [10/11/2018 07:56:01.329 AM] Unity.ProGrids.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.Editor.dll
+ (0,0): [10/11/2018 07:56:01.369 AM] Unity.Collections.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:01.404 AM] Unity.Collections.dll compiling...
+ (0,0): [10/11/2018 07:56:01.510 AM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Editor.dll
+ (0,0): [10/11/2018 07:56:01.572 AM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:01.636 AM] Unity.ProGrids.Editor.dll compilation finished in 1467ms  source files re-parsed: 20 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:01.698 AM] Unity.2D.Common.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:01.574 AM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 1478ms  source files re-parsed: 6 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:01.791 AM] Unity.Properties.Editor.dll compilation finished in 1057ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:01.860 AM] Unity.Burst.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:01.908 AM] Unity.Burst.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:01.924 AM] Unity.ShaderGraph.Editor.dll compilation finished in 2999ms  source files re-parsed: 378 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:01.914 AM] Unity.Collections.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Collections.dll
+ (0,0): [10/11/2018 07:56:01.927 AM] Unity.2D.Common.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Editor.dll
+ (0,0): [10/11/2018 07:56:01.979 AM] Unity.2D.PixelPerfect.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:02.041 AM] Unity.2D.PixelPerfect.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:02.043 AM] Unity.Collections.dll compilation finished in 643ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:02.053 AM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.Editor.dll
+ (0,0): [10/11/2018 07:56:02.043 AM] Unity.2D.Common.Editor.dll compilation finished in 344ms  source files re-parsed: 5 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:02.043 AM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/11/2018 07:56:02.099 AM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
+ (0,0): [10/11/2018 07:56:02.163 AM] Unity.Burst.Editor.dll compilation finished in 254ms  source files re-parsed: 10 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:02.172 AM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 131ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:02.294 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:02.306 AM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [10/11/2018 07:56:02.345 AM] Unity.TextMeshPro.Editor.dll compilation finished in 1491ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:02.405 AM] Unity.ProBuilder.AddOns.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:02.407 AM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Codegen.dll
+ (0,0): [10/11/2018 07:56:02.418 AM] Unity.ProBuilder.AddOns.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:02.454 AM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
+ (0,0): [10/11/2018 07:56:02.495 AM] Unity.Properties.Codegen.dll compilation finished in 189ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:02.538 AM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 120ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:02.574 AM] Unity.Entities.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:02.587 AM] Unity.Entities.dll compiling...
+ (0,0): [10/11/2018 07:56:02.674 AM] Unity.Jobs.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:02.764 AM] Unity.Jobs.dll compiling...
+ (0,0): [10/11/2018 07:56:02.872 AM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:02.885 AM] Unity.InternalAPIEditorBridge.001.dll compiling...
+ (0,0): [10/11/2018 07:56:02.930 AM] Unity.Jobs.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.dll
+ (0,0): [10/11/2018 07:56:02.947 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:02.949 AM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
+ (0,0): [10/11/2018 07:56:02.964 AM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:02.981 AM] Unity.Jobs.dll compilation finished in 217ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:02.995 AM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 110ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:03.043 AM] Unity.Entities.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.dll
+ (0,0): [10/11/2018 07:56:03.048 AM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [10/11/2018 07:56:03.138 AM] Unity.Mathematics.Editor.dll compilation finished in 173ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:03.157 AM] Unity.Entities.dll compilation finished in 570ms  source files re-parsed: 57 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:03.428 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:03.441 AM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:03.487 AM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.Editor.dll
+ (0,0): [10/11/2018 07:56:03.544 AM] Unity.Jobs.Editor.dll compilation finished in 103ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:03.561 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:03.578 AM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [10/11/2018 07:56:03.649 AM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [10/11/2018 07:56:03.656 AM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:03.668 AM] Unity.2D.SpriteShape.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:03.779 AM] Unity.Entities.Hybrid.dll compilation finished in 201ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:03.804 AM] Unity.2D.IK.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:03.817 AM] Unity.2D.IK.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:03.859 AM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
+ (0,0): [10/11/2018 07:56:04.045 AM] Unity.2D.IK.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Editor.dll
+ (0,0): [10/11/2018 07:56:04.189 AM] Unity.2D.IK.Editor.dll compilation finished in 372ms  source files re-parsed: 8 metadata reloaded: 2
+ (0,0): [10/11/2018 07:56:04.221 AM] Unity.2D.SpriteShape.Editor.dll compilation finished in 553ms  source files re-parsed: 20 metadata reloaded: 3
+ (0,0): [10/11/2018 07:56:04.494 AM] Unity.Transforms.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:04.507 AM] Unity.Transforms.dll compiling...
+ (0,0): [10/11/2018 07:56:04.664 AM] Unity.Transforms.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.dll
+ (0,0): [10/11/2018 07:56:04.817 AM] Unity.Transforms.dll compilation finished in 310ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:05.454 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:05.469 AM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [10/11/2018 07:56:05.569 AM] Unity.Entities.Properties.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:05.582 AM] Unity.Entities.Properties.dll compiling...
+ (0,0): [10/11/2018 07:56:05.662 AM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [10/11/2018 07:56:05.701 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:05.744 AM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [10/11/2018 07:56:05.791 AM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Properties.dll
+ (0,0): [10/11/2018 07:56:05.836 AM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [10/11/2018 07:56:05.856 AM] Unity.Rendering.Hybrid.dll compilation finished in 387ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:05.984 AM] Unity.Entities.Properties.dll compilation finished in 402ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:06.035 AM] Unity.Transforms.Hybrid.dll compilation finished in 291ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:07.017 AM] Unity.Entities.Editor.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:07.030 AM] Unity.Entities.Editor.dll compiling...
+ (0,0): [10/11/2018 07:56:07.239 AM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Editor.dll
+ (0,0): [10/11/2018 07:56:07.363 AM] Unity.Entities.Editor.dll compilation finished in 333ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:08.117 AM] Assembly-CSharp-firstpass.dll compiling...
+ (0,0): [10/11/2018 07:56:08.160 AM] Assembly-CSharp-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-firstpass.dll
+ (0,0): [10/11/2018 07:56:08.197 AM] Assembly-CSharp-firstpass.dll compilation finished in 79ms  source files re-parsed: 0 metadata reloaded: 17
+ (0,0): [10/11/2018 07:56:08.210 AM] Assembly-CSharp-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:56:08.645 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/11/2018 07:56:08.657 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:56:08.698 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:56:08.712 AM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 7 metadata reloaded: 1
+ (0,0): [10/11/2018 07:56:08.719 AM] Assembly-CSharp-Editor-firstpass.dll compiling...
+ (0,0): [10/11/2018 07:56:08.811 AM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
+ (0,0): [10/11/2018 07:56:08.900 AM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 181ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:08.914 AM] Assembly-CSharp-Editor-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:56:50.462 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:56:50.492 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:56:50.504 AM] Assembly-CSharp.dll compilation finished in 41ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:56:50.516 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:57:07.848 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:57:07.883 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:57:07.897 AM] Assembly-CSharp.dll compilation finished in 48ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 07:57:07.909 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 07:57:44.735 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 07:57:44.768 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 07:57:44.809 AM] Assembly-CSharp.dll compilation finished in 73ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/11/2018 07:57:44.821 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/11/2018 08:00:55.880 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 08:00:55.926 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 08:00:55.966 AM] Assembly-CSharp.dll compilation finished in 89ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 08:00:55.996 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 08:04:01.510 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 08:04:01.555 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 08:04:01.600 AM] Assembly-CSharp.dll compilation finished in 93ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 08:04:01.636 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 08:05:07.250 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 08:05:07.296 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 08:05:07.337 AM] Assembly-CSharp.dll compilation finished in 87ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 08:05:07.356 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/11/2018 12:05:17.928 PM] Assembly-CSharp.dll compiling...
+ (0,0): [10/11/2018 12:05:18.004 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/11/2018 12:05:18.063 PM] Assembly-CSharp.dll compilation finished in 139ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/11/2018 12:05:18.094 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
  (0,0): watchdog triggered an exit

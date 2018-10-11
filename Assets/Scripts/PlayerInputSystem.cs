@@ -20,10 +20,11 @@ namespace BulletHel.Components
 
 		protected override JobHandle OnUpdate(JobHandle inputDeps)
 		{
+			var input = Statics.inputControl;
 			var job = new PlayerInputJob
 			{
-				horizontal = Input.GetAxis("Horizontal"),
-				vertical = Input.GetAxis("Vertical")
+				horizontal = Input.GetAxis(input.horizontalMovement),
+				vertical = Input.GetAxis(input.verticalMovement)
 			};
 			return job.Schedule(this, inputDeps);
 		}
