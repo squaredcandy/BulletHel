@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
-using Sirenix.OdinInspector;
 
-public class InputControls : SerializedMonoBehaviour {
+public class InputControls : MonoBehaviour {
 
 	public string horizontalMovement = "Horizontal";
 	public string verticalMovement = "Vertical";

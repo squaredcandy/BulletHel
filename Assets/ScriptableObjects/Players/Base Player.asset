@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc5e0a7c1da4d7f40a0c478a90f848a4, type: 3}
+  m_Name: Base Player
+  m_EditorClassIdentifier: 
+  name: Base Player
+  ships:
+  - {fileID: 11400000, guid: 0b767cb3b91059c4d80715abec0408cc, type: 2}
