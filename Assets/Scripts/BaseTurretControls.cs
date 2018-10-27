@@ -1,0 +1,37 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class BaseTurretControls : MonoBehaviour {
+
+	public Transform spawnPoint;
+	public float fireSpeed;
+	public GameObject projectilePrefab;
+	protected float fireTime;
+	private Transform tf;
+
+	void Start () {
+		tf = transform;
+		fireTime = 0f;
+	}
+	
+	void Update () {
+		fireTime += Time.deltaTime;
+
+		if(Statics.Fire0 && !Statics.EditMode)
+		{
+			if(fireTime >= fireSpeed)
+			{
+				fireTime = 0f;
+				FireBullet();
+			}
+		}
+	}
+
+	public virtual void FireBullet()
+	{
+		var projectile = Instantiate(projectilePrefab);
+		projectile.transform.position = spawnPoint.position;
+		Destroy(projectile, 5);
+	}
+}

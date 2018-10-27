@@ -1,27 +1,23 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-public class BaseComponentData : ScriptableObject
-{
+[CreateAssetMenu(fileName = "Base Component", menuName = "Component/Base Component")]
+public class BaseComponentData : ScriptableObject {
+
 	public new string name;
-	public GameObject meshPrefab;
+	public GameObject componentPrefab;
 
-	protected GameObject component;
-	protected Transform parent;
+	protected GameObject newComponent;
 
-	public virtual void CreateComponent(Transform parent)
+	public virtual void GenerateComponent(Transform parentTranfrom,
+		LocalTransform localTransform)
 	{
-		component = new GameObject
-		{
-			name = name
-		};
-		var tf = component.transform;
-		tf.parent = parent;
-
-		Instantiate(meshPrefab, tf);
-	}
-
-	public virtual void UpdateComponent()
-	{
-
+		newComponent = Instantiate(componentPrefab, parentTranfrom);
+		newComponent.name = name;
+		var tf = newComponent.transform;
+		tf.localPosition = localTransform.localPosition;
+		tf.localRotation = Quaternion.Euler(localTransform.localRotation);
+		tf.localScale = localTransform.localScale;
 	}
 }
