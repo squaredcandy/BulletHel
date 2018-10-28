@@ -14,14 +14,23 @@
                 "z": 3.0
             },
             "shipPrefab": {
+<<<<<<< HEAD
                 "instanceID": -542594
+=======
+                "instanceID": 4492
+>>>>>>> master
             },
             "componentData": [
                 {
                     "transform": {
                         "localPosition": {
+<<<<<<< HEAD
                             "x": 0.0,
                             "y": 0.0,
+=======
+                            "x": 0.04178764298558235,
+                            "y": 0.12122169882059097,
+>>>>>>> master
                             "z": 0.0
                         },
                         "localRotation": {
@@ -36,20 +45,33 @@
                         }
                     },
                     "componentData": {
+<<<<<<< HEAD
                         "instanceID": -735914
+=======
+                        "instanceID": 4266
+>>>>>>> master
                     }
                 },
                 {
                     "transform": {
                         "localPosition": {
+<<<<<<< HEAD
                             "x": 0.0,
                             "y": 0.75,
+=======
+                            "x": 0.5222305655479431,
+                            "y": 0.6391151547431946,
+>>>>>>> master
                             "z": 0.0
                         },
                         "localRotation": {
                             "x": 0.0,
                             "y": 0.0,
+<<<<<<< HEAD
                             "z": 0.0
+=======
+                            "z": -44.48863220214844
+>>>>>>> master
                         },
                         "localScale": {
                             "x": 1.0,
@@ -58,7 +80,11 @@
                         }
                     },
                     "componentData": {
+<<<<<<< HEAD
                         "instanceID": -733028
+=======
+                        "instanceID": 4122
+>>>>>>> master
                     }
                 }
             ]
@@ -66,10 +92,17 @@
     ],
     "currentShipIndex": 0,
     "spawnParent": {
+<<<<<<< HEAD
         "instanceID": 5486
     },
     "currentShip": {
         "instanceID": -910748
+=======
+        "instanceID": 5822
+    },
+    "currentShip": {
+        "instanceID": -107456
+>>>>>>> master
     },
     "filePath": "Savedata/"
 }

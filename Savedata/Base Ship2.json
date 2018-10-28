@@ -1,9 +1,83 @@
 {
     "name": "Base Ship",
+<<<<<<< HEAD
     "ships": [
         {
             "instanceID": 0
         }
     ],
+=======
+    "listOfShips": [
+        {
+            "name": "Base Ship",
+            "baseRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "baseScale": {
+                "x": 3.0,
+                "y": 3.0,
+                "z": 3.0
+            },
+            "shipPrefab": {
+                "instanceID": 15734
+            },
+            "componentData": [
+                {
+                    "transform": {
+                        "localPosition": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "localRotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "localScale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        }
+                    },
+                    "componentData": {
+                        "instanceID": 15542
+                    }
+                },
+                {
+                    "transform": {
+                        "localPosition": {
+                            "x": -1.587399959564209,
+                            "y": 2.352213144302368,
+                            "z": 0.0
+                        },
+                        "localRotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "localScale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        }
+                    },
+                    "componentData": {
+                        "instanceID": 15436
+                    }
+                }
+            ]
+        }
+    ],
+    "currentShipIndex": 0,
+    "spawnParent": {
+        "instanceID": 16814
+    },
+    "currentShip": {
+        "instanceID": -135554
+    },
+>>>>>>> master
     "filePath": "Savedata/"
 }
