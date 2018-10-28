@@ -1,392 +1,320 @@
  (0,0): Unity incremental compiler server
- (0,0): watchdog active on pid: 13960
- (0,0): [10/11/2018 06:48:00.428 AM] Unity.Mathematics.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:00.452 AM] Unity.Mathematics.dll compiling...
- (0,0): [10/11/2018 06:48:00.497 AM] Unity.2D.PixelPerfect.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:00.517 AM] Unity.2D.PixelPerfect.dll compiling...
- (0,0): [10/11/2018 06:48:01.052 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:01.060 AM] Unity.TextMeshPro.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:01.072 AM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/11/2018 06:48:01.076 AM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/11/2018 06:48:01.304 AM] Unity.Properties.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:01.320 AM] Unity.Properties.dll compiling...
- (0,0): [10/11/2018 06:48:01.388 AM] Unity.2D.IK.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:01.404 AM] Unity.2D.IK.Runtime.dll compiling...
- (0,0): [10/11/2018 06:48:01.472 AM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:01.488 AM] Unity.InternalAPIEngineBridge.001.dll compiling...
- (0,0): [10/11/2018 06:48:01.472 AM] Unity.Burst.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:01.508 AM] Unity.Burst.dll compiling...
- (0,0): [10/11/2018 06:48:09.006 AM] Unity.Burst.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.dll
- (0,0): [10/11/2018 06:48:09.014 AM] Unity.2D.IK.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Runtime.dll
- (0,0): [10/11/2018 06:48:09.014 AM] Unity.2D.PixelPerfect.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.dll
- (0,0): [10/11/2018 06:48:09.014 AM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
- (0,0): [10/11/2018 06:48:09.169 AM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 7682ms  source files re-parsed: 2 metadata reloaded: 95
- (0,0): [10/11/2018 06:48:09.219 AM] Unity.2D.PixelPerfect.dll compilation finished in 8705ms  source files re-parsed: 3 metadata reloaded: 205
- (0,0): [10/11/2018 06:48:09.262 AM] Unity.Burst.dll compilation finished in 7758ms  source files re-parsed: 3 metadata reloaded: 94
- (0,0): [10/11/2018 06:48:09.392 AM] Unity.2D.IK.Runtime.dll compilation finished in 7990ms  source files re-parsed: 13 metadata reloaded: 98
- (0,0): [10/11/2018 06:48:09.420 AM] Unity.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.dll
- (0,0): [10/11/2018 06:48:09.793 AM] Unity.Properties.dll compilation finished in 8476ms  source files re-parsed: 34 metadata reloaded: 100
- (0,0): [10/11/2018 06:48:10.379 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/11/2018 06:48:11.019 AM] Unity.ProGrids.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:11.035 AM] Unity.ProGrids.dll compiling...
- (0,0): [10/11/2018 06:48:11.107 AM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:11.121 AM] Unity.ProGrids.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.dll
- (0,0): [10/11/2018 06:48:11.121 AM] Unity.Postprocessing.Runtime.dll compilation finished in 10051ms  source files re-parsed: 56 metadata reloaded: 106
- (0,0): [10/11/2018 06:48:11.125 AM] Unity.2D.Common.Runtime.dll compiling...
- (0,0): [10/11/2018 06:48:11.236 AM] Unity.ProGrids.dll compilation finished in 202ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:11.248 AM] Unity.2D.Common.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Runtime.dll
- (0,0): [10/11/2018 06:48:11.331 AM] Unity.2D.Common.Runtime.dll compilation finished in 208ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:11.378 AM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.dll
- (0,0): [10/11/2018 06:48:11.732 AM] Unity.TextMeshPro.dll compilation finished in 10657ms  source files re-parsed: 45 metadata reloaded: 106
- (0,0): [10/11/2018 06:48:11.871 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:11.887 AM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:12.128 AM] Unity.ShaderGraph.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:12.189 AM] Unity.ShaderGraph.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:12.490 AM] Unity.Properties.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:12.510 AM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:12.608 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/11/2018 06:48:12.865 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 982ms  source files re-parsed: 44 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:12.971 AM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:13.068 AM] Unity.2D.SpriteShape.Runtime.dll compiling...
- (0,0): [10/11/2018 06:48:13.190 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:13.257 AM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:13.290 AM] Unity.ProGrids.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:13.418 AM] Unity.ProGrids.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:13.555 AM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Editor.dll
- (0,0): [10/11/2018 06:48:13.914 AM] Unity.Properties.Editor.dll compilation finished in 1405ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:13.950 AM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:13.968 AM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:14.172 AM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:14.297 AM] Unity.2D.Common.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:14.375 AM] Unity.Mathematics.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.dll
- (0,0): [10/11/2018 06:48:14.577 AM] Unity.Burst.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:14.646 AM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:14.734 AM] Unity.ProGrids.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.Editor.dll
- (0,0): [10/11/2018 06:48:14.762 AM] Unity.Mathematics.dll compilation finished in 14309ms  source files re-parsed: 81 metadata reloaded: 213
- (0,0): [10/11/2018 06:48:14.766 AM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
- (0,0): [10/11/2018 06:48:14.988 AM] Unity.ProGrids.Editor.dll compilation finished in 1570ms  source files re-parsed: 20 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:14.996 AM] Unity.2D.Common.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Editor.dll
- (0,0): [10/11/2018 06:48:14.988 AM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 1920ms  source files re-parsed: 6 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:14.996 AM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/11/2018 06:48:15.488 AM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.Editor.dll
- (0,0): [10/11/2018 06:48:15.632 AM] Unity.Collections.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:15.636 AM] Unity.2D.Common.Editor.dll compilation finished in 1340ms  source files re-parsed: 5 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:15.648 AM] Unity.Collections.dll compiling...
- (0,0): [10/11/2018 06:48:15.885 AM] Unity.Burst.Editor.dll compilation finished in 1241ms  source files re-parsed: 10 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:16.011 AM] Unity.Postprocessing.Editor.dll compilation finished in 2752ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:16.015 AM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/11/2018 06:48:16.039 AM] Unity.2D.PixelPerfect.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:16.060 AM] Unity.2D.PixelPerfect.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:16.065 AM] Unity.Collections.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Collections.dll
- (0,0): [10/11/2018 06:48:16.136 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:16.157 AM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/11/2018 06:48:16.164 AM] Unity.ShaderGraph.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
- (0,0): [10/11/2018 06:48:16.211 AM] Unity.Collections.dll compilation finished in 561ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:16.215 AM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
- (0,0): [10/11/2018 06:48:16.277 AM] Unity.ProBuilder.AddOns.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:16.306 AM] Unity.ProBuilder.AddOns.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:16.359 AM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 302ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:16.365 AM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/11/2018 06:48:16.425 AM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
- (0,0): [10/11/2018 06:48:16.540 AM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:16.555 AM] Unity.InternalAPIEditorBridge.001.dll compiling...
- (0,0): [10/11/2018 06:48:16.568 AM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 263ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:16.580 AM] Unity.ShaderGraph.Editor.dll compilation finished in 4395ms  source files re-parsed: 378 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:16.637 AM] Unity.Properties.Codegen.dll compilation finished in 482ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:16.646 AM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
- (0,0): [10/11/2018 06:48:16.674 AM] Unity.TextMeshPro.Editor.dll compilation finished in 2708ms  source files re-parsed: 39 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:16.682 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:16.702 AM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:16.722 AM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 167ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:16.799 AM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/11/2018 06:48:16.901 AM] Unity.Mathematics.Editor.dll compilation finished in 202ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:17.002 AM] Unity.Entities.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:17.022 AM] Unity.Entities.dll compiling...
- (0,0): [10/11/2018 06:48:17.159 AM] Unity.Jobs.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:17.179 AM] Unity.Jobs.dll compiling...
- (0,0): [10/11/2018 06:48:17.420 AM] Unity.Jobs.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.dll
- (0,0): [10/11/2018 06:48:17.566 AM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:17.618 AM] Unity.2D.SpriteShape.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:17.624 AM] Unity.Jobs.dll compilation finished in 444ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:17.670 AM] Unity.2D.IK.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:17.745 AM] Unity.2D.IK.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:18.005 AM] Unity.2D.IK.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Editor.dll
- (0,0): [10/11/2018 06:48:18.049 AM] Unity.Entities.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.dll
- (0,0): [10/11/2018 06:48:18.065 AM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
- (0,0): [10/11/2018 06:48:18.133 AM] Unity.2D.IK.Editor.dll compilation finished in 389ms  source files re-parsed: 8 metadata reloaded: 2
- (0,0): [10/11/2018 06:48:18.149 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:18.165 AM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:18.229 AM] Unity.Entities.dll compilation finished in 1208ms  source files re-parsed: 57 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:18.237 AM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/11/2018 06:48:18.249 AM] Unity.2D.SpriteShape.Editor.dll compilation finished in 632ms  source files re-parsed: 20 metadata reloaded: 3
- (0,0): [10/11/2018 06:48:18.290 AM] Unity.Jobs.Editor.dll compilation finished in 126ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:18.668 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:18.685 AM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/11/2018 06:48:18.791 AM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/11/2018 06:48:18.885 AM] Unity.Entities.Hybrid.dll compilation finished in 202ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:19.411 AM] Unity.Transforms.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:19.427 AM] Unity.Transforms.dll compiling...
- (0,0): [10/11/2018 06:48:19.570 AM] Unity.Transforms.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.dll
- (0,0): [10/11/2018 06:48:19.676 AM] Unity.Transforms.dll compilation finished in 250ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:20.362 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:20.378 AM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/11/2018 06:48:20.446 AM] Unity.Entities.Properties.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:20.462 AM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/11/2018 06:48:20.470 AM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/11/2018 06:48:20.567 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:20.583 AM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/11/2018 06:48:20.587 AM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Properties.dll
- (0,0): [10/11/2018 06:48:20.591 AM] Unity.Rendering.Hybrid.dll compilation finished in 214ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:20.660 AM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/11/2018 06:48:20.692 AM] Unity.Entities.Properties.dll compilation finished in 233ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:20.728 AM] Unity.Transforms.Hybrid.dll compilation finished in 148ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [10/11/2018 06:48:21.683 AM] Unity.Entities.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:21.698 AM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/11/2018 06:48:21.885 AM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Editor.dll
- (0,0): [10/11/2018 06:48:22.004 AM] Unity.Entities.Editor.dll compilation finished in 305ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:30.187 AM] Assembly-CSharp-firstpass.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:30.201 AM] Assembly-CSharp-firstpass.dll compiling...
- (0,0): [10/11/2018 06:48:30.295 AM] Assembly-CSharp-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-firstpass.dll
- (0,0): [10/11/2018 06:48:30.347 AM] Assembly-CSharp-firstpass.dll compilation finished in 148ms  source files re-parsed: 1 metadata reloaded: 17
- (0,0): [10/11/2018 06:48:31.081 AM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:31.097 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 06:48:31.162 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 06:48:31.190 AM] Assembly-CSharp-Editor-firstpass.dll: no prior compilation found in cache
- (0,0): [10/11/2018 06:48:31.206 AM] Assembly-CSharp-Editor-firstpass.dll compiling...
- (0,0): [10/11/2018 06:48:31.222 AM] Assembly-CSharp.dll compilation finished in 125ms  source files re-parsed: 5 metadata reloaded: 1
- (0,0): [10/11/2018 06:48:31.322 AM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
- (0,0): [10/11/2018 06:48:31.459 AM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 256ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [10/11/2018 06:51:58.652 AM] Compiler cache size is now 20.91 MB
- (0,0): [10/11/2018 07:10:29.790 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:10:29.866 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:10:29.930 AM] Assembly-CSharp.dll compilation finished in 140ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:10:29.943 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 07:10:54.145 AM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:10:54.159 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:10:54.221 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:10:54.284 AM] Assembly-CSharp.dll compilation finished in 125ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [10/11/2018 07:19:18.659 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:19:18.716 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:19:18.779 AM] Assembly-CSharp.dll compilation finished in 119ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/11/2018 07:19:18.793 AM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed.
- (0,0): [10/11/2018 07:21:54.147 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:21:54.190 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:21:54.242 AM] Assembly-CSharp.dll compilation finished in 95ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:21:54.255 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 07:22:24.198 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:22:24.236 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:22:24.283 AM] Assembly-CSharp.dll compilation finished in 85ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:22:24.296 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 07:24:16.780 AM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:24:16.793 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:24:16.833 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:24:16.876 AM] Assembly-CSharp.dll compilation finished in 83ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [10/11/2018 07:32:52.303 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:32:52.340 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:32:52.379 AM] Assembly-CSharp.dll compilation finished in 74ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/11/2018 07:32:52.391 AM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed.
- (0,0): [10/11/2018 07:35:33.046 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:35:33.084 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:35:33.124 AM] Assembly-CSharp.dll compilation finished in 79ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:35:33.138 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 07:37:02.141 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:37:02.181 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:37:02.228 AM] Assembly-CSharp.dll compilation finished in 87ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:37:02.240 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 07:49:28.103 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:49:28.144 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:49:28.183 AM] Assembly-CSharp.dll compilation finished in 80ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 07:49:28.195 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
- (0,0): [10/11/2018 07:49:46.966 AM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:49:46.979 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:49:47.014 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:49:47.053 AM] Assembly-CSharp.dll compilation finished in 74ms  source files re-parsed: 8 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:47.618 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:55:47.702 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:55:47.717 AM] Assembly-CSharp.dll compilation finished in 98ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:47.729 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
- (0,0): [10/11/2018 07:55:55.243 AM] Unity.Mathematics.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:55.256 AM] Unity.Mathematics.dll compiling...
- (0,0): [10/11/2018 07:55:55.513 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:55.571 AM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/11/2018 07:55:56.080 AM] Unity.TextMeshPro.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:56.084 AM] Unity.2D.IK.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:56.081 AM] Unity.Properties.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:56.145 AM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/11/2018 07:55:56.156 AM] Unity.Properties.dll compiling...
- (0,0): [10/11/2018 07:55:56.212 AM] Unity.Burst.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:56.141 AM] Unity.2D.IK.Runtime.dll compiling...
- (0,0): [10/11/2018 07:55:56.290 AM] Unity.Burst.dll compiling...
- (0,0): [10/11/2018 07:55:56.356 AM] Unity.2D.PixelPerfect.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:56.369 AM] Unity.2D.PixelPerfect.dll compiling...
- (0,0): [10/11/2018 07:55:56.451 AM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:56.495 AM] Unity.InternalAPIEngineBridge.001.dll compiling...
- (0,0): [10/11/2018 07:55:56.561 AM] Unity.Burst.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.dll
- (0,0): [10/11/2018 07:55:56.608 AM] Unity.2D.IK.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Runtime.dll
- (0,0): [10/11/2018 07:55:56.691 AM] Unity.2D.PixelPerfect.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.dll
- (0,0): [10/11/2018 07:55:56.699 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/11/2018 07:55:56.763 AM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
- (0,0): [10/11/2018 07:55:56.801 AM] Unity.2D.PixelPerfect.dll compilation finished in 432ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:56.805 AM] Unity.2D.IK.Runtime.dll compilation finished in 664ms  source files re-parsed: 13 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:56.814 AM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 319ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:56.804 AM] Unity.Burst.dll compilation finished in 513ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:56.915 AM] Unity.Postprocessing.Runtime.dll compilation finished in 1343ms  source files re-parsed: 56 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:57.754 AM] Unity.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.dll
- (0,0): [10/11/2018 07:55:58.029 AM] Unity.Properties.dll compilation finished in 1873ms  source files re-parsed: 34 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:58.047 AM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.dll
- (0,0): [10/11/2018 07:55:58.286 AM] Unity.TextMeshPro.dll compilation finished in 2141ms  source files re-parsed: 45 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:58.366 AM] Unity.ProGrids.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:58.380 AM] Unity.ProGrids.dll compiling...
- (0,0): [10/11/2018 07:55:58.427 AM] Unity.ProGrids.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.dll
- (0,0): [10/11/2018 07:55:58.469 AM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:58.478 AM] Unity.ProGrids.dll compilation finished in 98ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:58.481 AM] Unity.2D.Common.Runtime.dll compiling...
- (0,0): [10/11/2018 07:55:58.519 AM] Unity.2D.Common.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Runtime.dll
- (0,0): [10/11/2018 07:55:58.575 AM] Unity.2D.Common.Runtime.dll compilation finished in 94ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:55:58.894 AM] Unity.ShaderGraph.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:58.924 AM] Unity.ShaderGraph.Editor.dll compiling...
- (0,0): [10/11/2018 07:55:58.949 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:58.990 AM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/11/2018 07:55:59.248 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:55:59.260 AM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/11/2018 07:55:59.451 AM] Unity.Mathematics.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.dll
- (0,0): [10/11/2018 07:55:59.707 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/11/2018 07:56:00.082 AM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:00.083 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 1093ms  source files re-parsed: 44 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:00.085 AM] Unity.Mathematics.dll compilation finished in 4829ms  source files re-parsed: 81 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:00.096 AM] Unity.2D.SpriteShape.Runtime.dll compiling...
- (0,0): [10/11/2018 07:56:00.156 AM] Unity.ProGrids.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:00.169 AM] Unity.ProGrids.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:00.638 AM] Unity.Properties.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:00.734 AM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:00.748 AM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/11/2018 07:56:00.841 AM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:00.854 AM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:01.179 AM] Unity.Postprocessing.Editor.dll compilation finished in 1919ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:01.181 AM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
- (0,0): [10/11/2018 07:56:01.312 AM] Unity.ShaderGraph.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
- (0,0): [10/11/2018 07:56:01.329 AM] Unity.ProGrids.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.Editor.dll
- (0,0): [10/11/2018 07:56:01.369 AM] Unity.Collections.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:01.404 AM] Unity.Collections.dll compiling...
- (0,0): [10/11/2018 07:56:01.510 AM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Editor.dll
- (0,0): [10/11/2018 07:56:01.572 AM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:01.636 AM] Unity.ProGrids.Editor.dll compilation finished in 1467ms  source files re-parsed: 20 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:01.698 AM] Unity.2D.Common.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:01.574 AM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 1478ms  source files re-parsed: 6 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:01.791 AM] Unity.Properties.Editor.dll compilation finished in 1057ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:01.860 AM] Unity.Burst.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:01.908 AM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:01.924 AM] Unity.ShaderGraph.Editor.dll compilation finished in 2999ms  source files re-parsed: 378 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:01.914 AM] Unity.Collections.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Collections.dll
- (0,0): [10/11/2018 07:56:01.927 AM] Unity.2D.Common.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Editor.dll
- (0,0): [10/11/2018 07:56:01.979 AM] Unity.2D.PixelPerfect.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:02.041 AM] Unity.2D.PixelPerfect.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:02.043 AM] Unity.Collections.dll compilation finished in 643ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:02.053 AM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Burst.Editor.dll
- (0,0): [10/11/2018 07:56:02.043 AM] Unity.2D.Common.Editor.dll compilation finished in 344ms  source files re-parsed: 5 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:02.043 AM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/11/2018 07:56:02.099 AM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
- (0,0): [10/11/2018 07:56:02.163 AM] Unity.Burst.Editor.dll compilation finished in 254ms  source files re-parsed: 10 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:02.172 AM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 131ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:02.294 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:02.306 AM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/11/2018 07:56:02.345 AM] Unity.TextMeshPro.Editor.dll compilation finished in 1491ms  source files re-parsed: 39 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:02.405 AM] Unity.ProBuilder.AddOns.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:02.407 AM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/11/2018 07:56:02.418 AM] Unity.ProBuilder.AddOns.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:02.454 AM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
- (0,0): [10/11/2018 07:56:02.495 AM] Unity.Properties.Codegen.dll compilation finished in 189ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:02.538 AM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 120ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:02.574 AM] Unity.Entities.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:02.587 AM] Unity.Entities.dll compiling...
- (0,0): [10/11/2018 07:56:02.674 AM] Unity.Jobs.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:02.764 AM] Unity.Jobs.dll compiling...
- (0,0): [10/11/2018 07:56:02.872 AM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:02.885 AM] Unity.InternalAPIEditorBridge.001.dll compiling...
- (0,0): [10/11/2018 07:56:02.930 AM] Unity.Jobs.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.dll
- (0,0): [10/11/2018 07:56:02.947 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:02.949 AM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
- (0,0): [10/11/2018 07:56:02.964 AM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:02.981 AM] Unity.Jobs.dll compilation finished in 217ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:02.995 AM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 110ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:03.043 AM] Unity.Entities.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.dll
- (0,0): [10/11/2018 07:56:03.048 AM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/11/2018 07:56:03.138 AM] Unity.Mathematics.Editor.dll compilation finished in 173ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:03.157 AM] Unity.Entities.dll compilation finished in 570ms  source files re-parsed: 57 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:03.428 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:03.441 AM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:03.487 AM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/11/2018 07:56:03.544 AM] Unity.Jobs.Editor.dll compilation finished in 103ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:03.561 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:03.578 AM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/11/2018 07:56:03.649 AM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/11/2018 07:56:03.656 AM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:03.668 AM] Unity.2D.SpriteShape.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:03.779 AM] Unity.Entities.Hybrid.dll compilation finished in 201ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:03.804 AM] Unity.2D.IK.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:03.817 AM] Unity.2D.IK.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:03.859 AM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
- (0,0): [10/11/2018 07:56:04.045 AM] Unity.2D.IK.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.IK.Editor.dll
- (0,0): [10/11/2018 07:56:04.189 AM] Unity.2D.IK.Editor.dll compilation finished in 372ms  source files re-parsed: 8 metadata reloaded: 2
- (0,0): [10/11/2018 07:56:04.221 AM] Unity.2D.SpriteShape.Editor.dll compilation finished in 553ms  source files re-parsed: 20 metadata reloaded: 3
- (0,0): [10/11/2018 07:56:04.494 AM] Unity.Transforms.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:04.507 AM] Unity.Transforms.dll compiling...
- (0,0): [10/11/2018 07:56:04.664 AM] Unity.Transforms.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.dll
- (0,0): [10/11/2018 07:56:04.817 AM] Unity.Transforms.dll compilation finished in 310ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:05.454 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:05.469 AM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/11/2018 07:56:05.569 AM] Unity.Entities.Properties.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:05.582 AM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/11/2018 07:56:05.662 AM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/11/2018 07:56:05.701 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:05.744 AM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/11/2018 07:56:05.791 AM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Properties.dll
- (0,0): [10/11/2018 07:56:05.836 AM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/11/2018 07:56:05.856 AM] Unity.Rendering.Hybrid.dll compilation finished in 387ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:05.984 AM] Unity.Entities.Properties.dll compilation finished in 402ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:06.035 AM] Unity.Transforms.Hybrid.dll compilation finished in 291ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:07.017 AM] Unity.Entities.Editor.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:07.030 AM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/11/2018 07:56:07.239 AM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.Entities.Editor.dll
- (0,0): [10/11/2018 07:56:07.363 AM] Unity.Entities.Editor.dll compilation finished in 333ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:08.117 AM] Assembly-CSharp-firstpass.dll compiling...
- (0,0): [10/11/2018 07:56:08.160 AM] Assembly-CSharp-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-firstpass.dll
- (0,0): [10/11/2018 07:56:08.197 AM] Assembly-CSharp-firstpass.dll compilation finished in 79ms  source files re-parsed: 0 metadata reloaded: 17
- (0,0): [10/11/2018 07:56:08.210 AM] Assembly-CSharp-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/11/2018 07:56:08.645 AM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/11/2018 07:56:08.657 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:56:08.698 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:56:08.712 AM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 7 metadata reloaded: 1
- (0,0): [10/11/2018 07:56:08.719 AM] Assembly-CSharp-Editor-firstpass.dll compiling...
- (0,0): [10/11/2018 07:56:08.811 AM] Assembly-CSharp-Editor-firstpass.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor-firstpass.dll
- (0,0): [10/11/2018 07:56:08.900 AM] Assembly-CSharp-Editor-firstpass.dll compilation finished in 181ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:08.914 AM] Assembly-CSharp-Editor-firstpass.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/11/2018 07:56:50.462 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:56:50.492 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:56:50.504 AM] Assembly-CSharp.dll compilation finished in 41ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:56:50.516 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 07:57:07.848 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:57:07.883 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:57:07.897 AM] Assembly-CSharp.dll compilation finished in 48ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 07:57:07.909 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 07:57:44.735 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 07:57:44.768 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 07:57:44.809 AM] Assembly-CSharp.dll compilation finished in 73ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/11/2018 07:57:44.821 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
- (0,0): [10/11/2018 08:00:55.880 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 08:00:55.926 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 08:00:55.966 AM] Assembly-CSharp.dll compilation finished in 89ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 08:00:55.996 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 08:04:01.510 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 08:04:01.555 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 08:04:01.600 AM] Assembly-CSharp.dll compilation finished in 93ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 08:04:01.636 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 08:05:07.250 AM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 08:05:07.296 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 08:05:07.337 AM] Assembly-CSharp.dll compilation finished in 87ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 08:05:07.356 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
- (0,0): [10/11/2018 12:05:17.928 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/11/2018 12:05:18.004 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
- (0,0): [10/11/2018 12:05:18.063 PM] Assembly-CSharp.dll compilation finished in 139ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/11/2018 12:05:18.094 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): watchdog active on pid: 12128
+ (0,0): [10/28/2018 01:57:18.922 AM] Unity.TextMeshPro.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:18.957 AM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/28/2018 01:57:19.629 AM] Unity.ShaderGraph.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:19.635 AM] Unity.2D.PixelPerfect.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:19.661 AM] Unity.2D.PixelPerfect.dll compiling...
+ (0,0): [10/28/2018 01:57:19.697 AM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:19.708 AM] Unity.ProGrids.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:19.711 AM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:19.661 AM] Unity.ShaderGraph.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:19.711 AM] Unity.ProBuilder.AddOns.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:19.717 AM] Unity.InternalAPIEngineBridge.001.dll compiling...
+ (0,0): [10/28/2018 01:57:19.752 AM] Unity.ProBuilder.AddOns.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:19.711 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:19.736 AM] Unity.ProGrids.dll compiling...
+ (0,0): [10/28/2018 01:57:19.736 AM] Unity.2D.Common.Runtime.dll compiling...
+ (0,0): [10/28/2018 01:57:19.808 AM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:24.643 AM] Unity.ProGrids.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.dll
+ (0,0): [10/28/2018 01:57:24.653 AM] Unity.2D.Common.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Runtime.dll
+ (0,0): [10/28/2018 01:57:24.653 AM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEngineBridge.001.dll
+ (0,0): [10/28/2018 01:57:24.682 AM] Unity.2D.PixelPerfect.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.dll
+ (0,0): [10/28/2018 01:57:24.648 AM] Unity.ProBuilder.AddOns.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProBuilder.AddOns.Editor.dll
+ (0,0): [10/28/2018 01:57:24.778 AM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 5063ms  source files re-parsed: 2 metadata reloaded: 86
+ (0,0): [10/28/2018 01:57:24.852 AM] Unity.2D.PixelPerfect.dll compilation finished in 5193ms  source files re-parsed: 3 metadata reloaded: 89
+ (0,0): [10/28/2018 01:57:24.859 AM] Unity.ProBuilder.AddOns.Editor.dll compilation finished in 5107ms  source files re-parsed: 1 metadata reloaded: 85
+ (0,0): [10/28/2018 01:57:24.859 AM] Unity.ProGrids.dll compilation finished in 5124ms  source files re-parsed: 2 metadata reloaded: 83
+ (0,0): [10/28/2018 01:57:24.859 AM] Unity.2D.Common.Runtime.dll compilation finished in 5122ms  source files re-parsed: 1 metadata reloaded: 82
+ (0,0): [10/28/2018 01:57:25.978 AM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:26.124 AM] Unity.InternalAPIEditorBridge.001.dll compiling...
+ (0,0): [10/28/2018 01:57:26.659 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/28/2018 01:57:26.816 AM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.InternalAPIEditorBridge.001.dll
+ (0,0): [10/28/2018 01:57:26.935 AM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:26.958 AM] Unity.2D.SpriteShape.Runtime.dll compiling...
+ (0,0): [10/28/2018 01:57:27.039 AM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 913ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/28/2018 01:57:27.051 AM] Unity.ProGrids.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:27.057 AM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/28/2018 01:57:27.076 AM] Unity.ProGrids.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:27.121 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 7318ms  source files re-parsed: 44 metadata reloaded: 81
+ (0,0): [10/28/2018 01:57:27.208 AM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:27.261 AM] Unity.2D.Common.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:27.318 AM] Unity.2D.PixelPerfect.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:27.380 AM] Unity.2D.PixelPerfect.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:27.401 AM] Unity.TextMeshPro.dll compilation finished in 8443ms  source files re-parsed: 45 metadata reloaded: 205
+ (0,0): [10/28/2018 01:57:27.548 AM] Unity.2D.PixelPerfect.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.PixelPerfect.Editor.dll
+ (0,0): [10/28/2018 01:57:27.578 AM] Unity.2D.Common.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.Common.Editor.dll
+ (0,0): [10/28/2018 01:57:27.602 AM] Unity.ProGrids.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ProGrids.Editor.dll
+ (0,0): [10/28/2018 01:57:27.648 AM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Runtime.dll
+ (0,0): [10/28/2018 01:57:27.671 AM] Unity.2D.PixelPerfect.Editor.dll compilation finished in 292ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/28/2018 01:57:27.692 AM] Unity.ShaderGraph.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.ShaderGraph.Editor.dll
+ (0,0): [10/28/2018 01:57:27.692 AM] Unity.2D.Common.Editor.dll compilation finished in 429ms  source files re-parsed: 5 metadata reloaded: 0
+ (0,0): [10/28/2018 01:57:27.822 AM] Unity.ProGrids.Editor.dll compilation finished in 747ms  source files re-parsed: 20 metadata reloaded: 1
+ (0,0): [10/28/2018 01:57:27.832 AM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 874ms  source files re-parsed: 6 metadata reloaded: 1
+ (0,0): [10/28/2018 01:57:27.882 AM] Unity.ShaderGraph.Editor.dll compilation finished in 8220ms  source files re-parsed: 378 metadata reloaded: 89
+ (0,0): [10/28/2018 01:57:28.222 AM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:28.247 AM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:28.697 AM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:28.728 AM] Unity.2D.SpriteShape.Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:28.937 AM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/28/2018 01:57:29.031 AM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Unity.2D.SpriteShape.Editor.dll
+ (0,0): [10/28/2018 01:57:29.188 AM] Unity.2D.SpriteShape.Editor.dll compilation finished in 460ms  source files re-parsed: 20 metadata reloaded: 3
+ (0,0): [10/28/2018 01:57:29.222 AM] Unity.TextMeshPro.Editor.dll compilation finished in 977ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [10/28/2018 01:57:32.932 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:32.968 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 01:57:33.058 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 01:57:33.148 AM] Assembly-CSharp.dll compilation finished in 183ms  source files re-parsed: 12 metadata reloaded: 8
+ (0,0): [10/28/2018 01:57:33.790 AM] Assembly-CSharp-Editor.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 01:57:33.808 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 01:57:33.862 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 01:57:33.918 AM] Assembly-CSharp-Editor.dll compilation finished in 111ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/28/2018 02:02:18.768 AM] Compiler cache size is now 17.29 MB
+ (0,0): [10/28/2018 02:02:48.683 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:02:48.766 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:02:48.856 AM] Assembly-CSharp.dll compilation finished in 173ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:02:48.870 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:02:49.688 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:02:49.740 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:02:49.792 AM] Assembly-CSharp-Editor.dll compilation finished in 103ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:02:49.804 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:04:03.475 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 02:04:03.488 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:04:03.566 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:04:03.658 AM] Assembly-CSharp.dll compilation finished in 170ms  source files re-parsed: 13 metadata reloaded: 0
+ (0,0): [10/28/2018 02:04:04.497 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:04:04.569 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:04:04.622 AM] Assembly-CSharp-Editor.dll compilation finished in 124ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:04:04.635 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:06:43.667 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:06:43.734 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:06:43.829 AM] Assembly-CSharp.dll compilation finished in 161ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:06:43.842 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:06:44.577 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:06:44.630 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:06:44.688 AM] Assembly-CSharp-Editor.dll compilation finished in 111ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:06:44.702 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:07:20.916 AM] Compiler cache size is now 17.29 MB
+ (0,0): [10/28/2018 02:09:19.395 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:09:19.453 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:09:19.534 AM] Assembly-CSharp.dll compilation finished in 139ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:09:19.547 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:09:20.321 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:09:20.391 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:09:20.443 AM] Assembly-CSharp-Editor.dll compilation finished in 121ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:09:20.456 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:11:01.305 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:11:01.367 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:11:01.445 AM] Assembly-CSharp.dll compilation finished in 140ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:11:01.458 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:11:02.158 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:11:02.211 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:11:02.266 AM] Assembly-CSharp-Editor.dll compilation finished in 107ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:11:02.279 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:12:15.833 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:12:15.900 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:12:15.977 AM] Assembly-CSharp.dll compilation finished in 144ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:12:15.990 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:12:16.840 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:12:16.892 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:12:16.940 AM] Assembly-CSharp-Editor.dll compilation finished in 100ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:12:16.953 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:22:41.457 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:22:41.527 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:22:41.608 AM] Assembly-CSharp.dll compilation finished in 150ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:22:41.621 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:22:42.270 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:22:42.320 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:22:42.369 AM] Assembly-CSharp-Editor.dll compilation finished in 99ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:22:42.382 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:23:57.084 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:23:57.151 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:23:57.232 AM] Assembly-CSharp.dll compilation finished in 147ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:23:57.245 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:23:57.888 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:23:57.938 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:23:57.992 AM] Assembly-CSharp-Editor.dll compilation finished in 103ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:23:58.005 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:36:18.162 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:36:18.230 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:36:18.313 AM] Assembly-CSharp.dll compilation finished in 150ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/28/2018 02:36:18.326 AM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:36:19.199 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:36:19.260 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:36:19.307 AM] Assembly-CSharp-Editor.dll compilation finished in 108ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:36:19.320 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:37:34.486 AM] Compiler cache size is now 17.29 MB
+ (0,0): [10/28/2018 02:39:31.260 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:39:31.348 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:39:31.366 AM] Assembly-CSharp.dll compilation finished in 106ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:39:31.379 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:42:36.148 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:42:36.210 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:42:36.225 AM] Assembly-CSharp.dll compilation finished in 77ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:42:36.238 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:42:52.523 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:42:52.588 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:42:52.603 AM] Assembly-CSharp.dll compilation finished in 79ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:42:52.615 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:48:48.973 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:48:49.046 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:48:49.131 AM] Assembly-CSharp.dll compilation finished in 158ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/28/2018 02:48:49.144 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:48:50.500 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:48:50.557 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:48:50.609 AM] Assembly-CSharp-Editor.dll compilation finished in 107ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:48:50.622 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:54:03.651 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:54:03.724 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:54:03.805 AM] Assembly-CSharp.dll compilation finished in 154ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/28/2018 02:54:03.818 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:54:04.491 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:54:04.547 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:54:04.597 AM] Assembly-CSharp-Editor.dll compilation finished in 106ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:54:04.610 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:56:45.925 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:56:46.002 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:56:46.084 AM] Assembly-CSharp.dll compilation finished in 159ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:56:46.097 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:56:46.939 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:56:46.989 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:56:47.040 AM] Assembly-CSharp-Editor.dll compilation finished in 100ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:56:47.053 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:58:44.551 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:58:44.624 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:58:44.702 AM] Assembly-CSharp.dll compilation finished in 151ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:58:44.715 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:58:45.587 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:58:45.650 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:58:45.718 AM] Assembly-CSharp-Editor.dll compilation finished in 131ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:58:45.732 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:59:10.450 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 02:59:10.517 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 02:59:10.597 AM] Assembly-CSharp.dll compilation finished in 147ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 02:59:10.610 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 02:59:11.324 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 02:59:11.374 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 02:59:11.425 AM] Assembly-CSharp-Editor.dll compilation finished in 100ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 02:59:11.438 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:05:39.333 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:05:39.406 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:05:39.490 AM] Assembly-CSharp.dll compilation finished in 156ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/28/2018 03:05:39.503 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:05:40.349 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:05:40.411 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:05:40.464 AM] Assembly-CSharp-Editor.dll compilation finished in 115ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:05:40.477 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:08:07.058 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:08:07.128 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:08:07.208 AM] Assembly-CSharp.dll compilation finished in 150ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/28/2018 03:08:07.221 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:08:07.977 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:08:08.031 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:08:08.090 AM] Assembly-CSharp-Editor.dll compilation finished in 112ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:08:08.103 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:09:43.967 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:09:44.028 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:09:44.106 AM] Assembly-CSharp.dll compilation finished in 139ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/28/2018 03:09:44.119 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:09:44.997 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:09:45.049 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:09:45.097 AM] Assembly-CSharp-Editor.dll compilation finished in 100ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:09:45.111 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:10:15.390 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:10:15.459 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:10:15.538 AM] Assembly-CSharp.dll compilation finished in 147ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 03:10:15.551 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:10:16.275 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:10:16.328 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:10:16.386 AM] Assembly-CSharp-Editor.dll compilation finished in 111ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:10:16.400 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:11:29.138 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:11:29.205 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:11:29.288 AM] Assembly-CSharp.dll compilation finished in 149ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 03:11:29.300 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:11:30.145 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:11:30.194 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:11:30.242 AM] Assembly-CSharp-Editor.dll compilation finished in 97ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:11:30.255 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:12:25.921 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:12:25.985 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:12:26.071 AM] Assembly-CSharp.dll compilation finished in 150ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 03:12:26.084 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:12:26.942 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:12:26.997 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:12:27.044 AM] Assembly-CSharp-Editor.dll compilation finished in 101ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:12:27.057 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:12:56.800 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 03:12:56.814 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:12:56.900 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:12:56.978 AM] Assembly-CSharp.dll compilation finished in 164ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [10/28/2018 03:12:59.406 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:12:59.463 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:12:59.517 AM] Assembly-CSharp-Editor.dll compilation finished in 110ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:12:59.529 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:15:00.962 AM] Compiler cache size is now 17.29 MB
+ (0,0): [10/28/2018 03:15:34.904 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:15:34.976 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:15:35.058 AM] Assembly-CSharp.dll compilation finished in 153ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/28/2018 03:15:35.071 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:15:35.956 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:15:36.016 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:15:36.076 AM] Assembly-CSharp-Editor.dll compilation finished in 119ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:15:36.089 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:15:58.969 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:15:59.026 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:15:59.110 AM] Assembly-CSharp.dll compilation finished in 140ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 03:15:59.123 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:15:59.820 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:15:59.874 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:15:59.931 AM] Assembly-CSharp-Editor.dll compilation finished in 110ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:15:59.944 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:16:15.056 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:16:15.121 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:16:15.194 AM] Assembly-CSharp.dll compilation finished in 138ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 03:16:15.207 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:16:15.880 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:16:15.934 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:16:15.989 AM] Assembly-CSharp-Editor.dll compilation finished in 109ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:16:16.003 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:42:40.610 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:42:40.652 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:42:40.701 AM] Assembly-CSharp.dll compilation finished in 90ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 03:42:40.714 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:42:41.471 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:42:41.506 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:42:41.539 AM] Assembly-CSharp-Editor.dll compilation finished in 68ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:42:41.551 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 03:59:48.743 AM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/28/2018 03:59:48.756 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 03:59:48.811 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 03:59:48.869 AM] Assembly-CSharp.dll compilation finished in 113ms  source files re-parsed: 15 metadata reloaded: 0
+ (0,0): [10/28/2018 03:59:49.434 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 03:59:49.467 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 03:59:49.502 AM] Assembly-CSharp-Editor.dll compilation finished in 68ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 03:59:49.514 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 04:00:53.279 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 04:00:53.319 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 04:00:53.375 AM] Assembly-CSharp.dll compilation finished in 95ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 04:00:53.387 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 04:00:53.934 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 04:00:53.969 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 04:00:54.003 AM] Assembly-CSharp-Editor.dll compilation finished in 69ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 04:00:54.015 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 04:01:17.006 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 04:01:17.054 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 04:01:17.106 AM] Assembly-CSharp.dll compilation finished in 100ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/28/2018 04:01:17.118 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.
+ (0,0): [10/28/2018 04:01:17.667 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 04:01:17.708 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 04:01:17.759 AM] Assembly-CSharp-Editor.dll compilation finished in 92ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 04:01:17.772 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 04:06:58.181 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/28/2018 04:06:58.224 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp.dll
+ (0,0): [10/28/2018 04:06:58.285 AM] Assembly-CSharp.dll compilation finished in 104ms  source files re-parsed: 4 metadata reloaded: 0
+ (0,0): [10/28/2018 04:06:58.297 AM] Assembly-CSharp.dll: compilation was cached, 4 file(s) were found to have changed.
+ (0,0): [10/28/2018 04:06:58.910 AM] Assembly-CSharp-Editor.dll compiling...
+ (0,0): [10/28/2018 04:06:58.949 AM] Assembly-CSharp-Editor.dll: emitting IL to : C:\Users\Vassago\Documents\BulletHel\Temp\Assembly-CSharp-Editor.dll
+ (0,0): [10/28/2018 04:06:58.983 AM] Assembly-CSharp-Editor.dll compilation finished in 73ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/28/2018 04:06:58.996 AM] Assembly-CSharp-Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10/28/2018 04:10:25.894 AM] Compiler cache size is now 17.29 MB
  (0,0): watchdog triggered an exit

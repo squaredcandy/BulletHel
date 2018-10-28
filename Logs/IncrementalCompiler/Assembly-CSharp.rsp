@@ -67,56 +67,27 @@
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.7f1\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.7f1\Editor\Data\Managed/UnityEditor.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.7f1\Editor\Data\Managed/Unity.Locator.dll"
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.ProGrids.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Entities.Properties.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Properties.Codegen.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Jobs.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Jobs.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Entities.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Properties.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Collections.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Burst.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Properties.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Mathematics.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Entities.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Transforms.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Burst.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.TextMeshPro.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
 -r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
--r:C:/Users/Vassago/Documents/BulletHel/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.7f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.7f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.7f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.7f1/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.7f1/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.7f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll"
--r:C:/Users/Vassago/Documents/BulletHel/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll
--r:C:/Users/Vassago/Documents/BulletHel/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll
--r:C:/Users/Vassago/Documents/BulletHel/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll
--r:C:/Users/Vassago/Documents/BulletHel/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll
--r:C:/Users/Vassago/Documents/BulletHel/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll
--r:C:/Users/Vassago/Documents/BulletHel/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll
--r:C:/Users/Vassago/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.collections@0.0.9-preview.7/System.Runtime.CompilerServices.Unsafe.dll
 -r:C:/Users/Vassago/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderCore.dll
 -r:C:/Users/Vassago/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderMeshOps.dll
 -r:C:/Users/Vassago/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/KdTreeLib.dll
@@ -336,11 +307,19 @@
 -d:ENABLE_VSTU
 -d:UNITY_POST_PROCESSING_STACK_V2
 -d:ODIN_INSPECTOR
--i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/EntitySpawner.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/ComponentPreview.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/BaseBullet.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/BaseComponentData.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/BaseShipControls.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/BaseShipData.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/BaseTurretComponent.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/BaseTurretControls.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/ComponentList.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/ComponentPicker.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/ComponentViewer.cs
 -i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/InputControls.cs
--i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/PlayerInput.cs
--i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/PlayerInputSystem.cs
--i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/PlayerMovementSystem.cs
--i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/Speed.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/PlayerData.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/SampleRotator.cs
+-i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/ShipPartPicker.cs
 -i:C:/Users/Vassago/Documents/BulletHel/Assets/Scripts/Statics.cs
 -v:0

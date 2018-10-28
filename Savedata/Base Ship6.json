@@ -1,0 +1,9 @@
+{
+    "name": "Base Ship",
+    "ships": [
+        {
+            "instanceID": 0
+        }
+    ],
+    "filePath": "Savedata/"
+}
